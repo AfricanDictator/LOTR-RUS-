@@ -1,0 +1,51 @@
+﻿l_russian:
+
+ race_tooltip:0 "[GetCountryRace]"
+ race_tooltip_delayed:0 "[GetCountryRaceModifier]"
+
+ race_elves:0 "Эльфы"
+ race_elves_desc:0 "Эльфы-бессмертный и изящный народ, известный за их обостренные чувства, красоту, и тесную связь с природой."
+ idea_race_elves_modifier:0 "Модификатор Эльфов"
+ race_elves_modifier:0 "§L$race_elves_desc$§! \n\n§W$MODIFIER_GLOBAL_MONTHLY_POPULATION$:§! §R-25.0%§! \n§W$MODIFIER_ARMY_ORG_FACTOR$:§! §G+10.0%§! \n"
+
+ race_dwarves:0 "Гномы"
+ race_dwarves_desc:0 "Гномы-сильный и крепкий народ, известные своим мастерством в добыче полезных ископаемых, рукоделии, и их любовью к сокровищам."
+ idea_race_dwarves_modifier:0 "Модификатор Гномов"
+ race_dwarves_modifier:0 "§L$race_dwarves_desc$§! \n\n§W$MODIFIER_LOCAL_RESOURCES_FACTOR$:§! §G+08.0%§! \n§W$MODIFIER_ARMY_SPEED_FACTOR$:§! §R-10.0%§! \n"
+
+ race_orcs:0 "Орки"
+ race_orcs_desc:0 "Орки известны за их жестокость, свирепость в бою и их тягу к подчинению более сильным и хитрым существам."
+ idea_race_orcs_modifier:0 "Модификатор Орков"
+ race_orcs_modifier:0 "§L$race_orcs_desc$§! \n\n§W$MODIFIERS_ARMY_ATTACK_FACTOR$:§! §G+10.0%§! \n§W$MODIFIER_ARMY_ORG_FACTOR$:§! §R-10.0%§! \n"
+
+ race_hobbits:0 "Хоббиты"
+ race_hobbits_desc:0 "Хоббиты-миниатюрная и непритязательня раса полуросликов, известных за их любовь к дому, еду и их храбрость перед лицом опасности."
+ idea_race_hobbits_modifier:0 "Модификатор Хоббитов"
+ race_hobbits_modifier:0 "§L$race_hobbits_desc$§! \n\n§W$MODIFIER_ARMY_FUEL_CONSUMPTION_FACTOR$:§! §R+25.0%§! \n§W$MODIFIERS_ARMY_ATTACK_FACTOR$:§! §R-10.0%§! \n§W$MODIFIER_RECON_FACTOR$:§! §G+10.0%§! \n§W$MODIFIER_COMBAT_WIDTH_FACTOR$:§! §G-10.0%§! \n"
+
+ race_spiders:0 "Пауки"
+ race_spiders_desc:0 "Великие Пауки (или Порождения Унголианта) - раса гигантских паукообразных существ, известных за их колоссальный размер и способность поймать добычу своей запутанной паутиной."
+ idea_race_spiders_modifier:0 "Модификатор Пауков"
+ race_spiders_modifier:0 "§L$race_spiders_desc$§! \n\n§W$MODIFIER_ARMY_SPEED_FACTOR$:§! §G+10.0%§! \n§W$MODIFIERS_ARMY_ATTACK_FACTOR$:§! §G+10.0%§! \n§W$MODIFIERS_ARMY_DEFENCE_FACTOR$:§! §R-10.0%§! \n§W$MODIFIER_COMBAT_WIDTH_FACTOR$:§! §R+10.0%§! \n"
+
+ race_men:0 "Люди"
+ race_men_desc:0 "Люди больше всего известны их тягой к коррупции и их бремем смертности, однако так же их храбростью, целеустремленностью и их способностью объединяться во время опасности."
+ idea_race_men_modifier:0 "Модификатор Людей"
+ race_men_modifier:0 "§L$race_men_desc$§! \n\n§W$MODIFIER_INITIATIVE_FACTOR$:§! §G+10.0%§! \n§W$MODIFIER_DRIFT_DEFENCE_FACTOR$:§! §R-15.0%§! \n"
+
+ race_ents:0 "Энты"
+ race_ents_desc:0 "Энты-раса огромных деревообразных существ, известных своей мудростью, медленной речью, и руководством лесом."
+ idea_race_ents_modifier:0 "Модификатор Энтов"
+ race_ents_modifier:0 "§L$race_ents_desc$§! \n\n§W$MODIFIER_ARMY_SPEED_FACTOR$:§! §R-20.0%§! \n§W$MODIFIER_COMBAT_WIDTH_FACTOR$:§! §R+10.0%§! \n§W$MODIFIERS_ARMY_ATTACK_FACTOR$:§! §G+15.0%§! \n§W$MODIFIERS_ARMY_DEFENCE_FACTOR$:§! §G+15.0%§! \n"
+
+ race_other:0 "Другие"
+ race_other_desc:0 ""
+ idea_race_other_modifier:0 "Другой (Race) Модификатор"
+ race_other_modifier:0 "§L$race_other_desc$§! \n\n"
+ 
+ races_map_mode: "Расы"
+ MAPMODE_RACES_MAP_MODE: "Расы"
+ MAPMODE_RACES_MAP_MODE_NAME: "Расы"
+ MAPMODE_RACES_MAP_MODE_DESCRIPTION: "Расы Средиземья"
+ races_map_mode_tooltip: "[FROM.controller.GetCountryRace]"
+ races_map_mode_tooltip_delayed: "[FROM.controller.GetCountryRaceModifier]"

@@ -1,0 +1,613 @@
+﻿l_russian:
+lthi_nandor_influence_percent:0 "[?LTH.lthi_nandor_influence_fraction|%Y0]"
+lthi_noldor_influence_percent:0 "[?LTH.lthi_noldor_influence_fraction|%Y0]"
+lthi_sindar_influence_percent:0 "[?LTH.lthi_sindar_influence_fraction|%Y0]"
+lthi_halfelves_influence_percent:0 "[?LTH.lthi_halfelves_influence_fraction|%Y0]"
+lthi_orcs_influence_percent:0 "[?LTH.lthi_orcs_influence_fraction|%Y0]"
+lthi_nonelves_influence_percent:0 "[?LTH.lthi_nonelves_influence_fraction|%Y0]"
+
+lthi_nandor_influence:0 "[?modifier@nandor_influence|O0]"
+lthi_noldor_influence:0 "[?modifier@noldor_influence|O0]"
+lthi_sindar_influence:0 "[?modifier@sindar_influence|O0]"
+lthi_halfelves_influence:0 "[?modifier@halfelves_influence|O0]"
+lthi_orcs_influence:0 "[?modifier@orcs_influence|O0]"
+lthi_nonelves_influence:0 "[?modifier@nonelves_influence|O0]"
+
+lthi_nandor_influence_both:0 "$lthi_nandor_influence_percent$ ($lthi_nandor_influence$)"
+lthi_noldor_influence_both:0 "$lthi_noldor_influence_percent$ ($lthi_noldor_influence$)"
+lthi_sindar_influence_both:0 "$lthi_sindar_influence_percent$ ($lthi_sindar_influence$)"
+lthi_halfelves_influence_both:0 "$lthi_halfelves_influence_percent$ ($lthi_halfelves_influence$)"
+lthi_orcs_influence_both:0 "$lthi_orcs_influence_percent$ ($lthi_orcs_influence$)"
+lthi_nonelves_influence_both:0 "$lthi_nonelves_influence_percent$ ($lthi_nonelves_influence$)"
+
+lthi_nandor_title_and_influence:0 "НАНДОР\n$lthi_nandor_influence$ ($lthi_nandor_influence_percent$)"
+lthi_noldor_title_and_influence:0 "НОЛДОР\n$lthi_noldor_influence$ ($lthi_noldor_influence_percent$)"
+lthi_sindar_title_and_influence:0 "СИНДАР\n$lthi_sindar_influence$ ($lthi_sindar_influence_percent$)"
+lthi_halfelves_title_and_influence:0 "ПОЛУЭЛЬФЫ\n$lthi_halfelves_influence$ ($lthi_halfelves_influence_percent$)"
+lthi_orcs_title_and_influence:0 "ОРКИ\n$lthi_orcs_influence$ ($lthi_orcs_influence_percent$)"
+lthi_nonelves_title_and_influence:0 "НЕЭЛЬФЫ\n$lthi_nonelves_influence$ ($lthi_nonelves_influence_percent$)"
+
+nandor_influence:0 "£nandor_texticon §YВлияние нандор§!"
+noldor_influence:0 "£noldor_texticon §YВлияние нолдор§!"
+sindar_influence:0 "£sindar_texticon §YВлияние синдар§!"
+halfelves_influence:0 "£halfelves_texticon §YВлияние полуэльфов§!"
+orcs_influence:0 "£orcs_texticon §YВлияние орков§!"
+nonelves_influence:0 "£nonelves_texticon §YВлияние неэльфов§!"
+
+nandor_faction:0 "£nandor_texticon §YФракция нандор§!"
+noldor_faction:0 "£noldor_texticon §YФракция нолдор§!"
+sindar_faction:0 "£sindar_texticon §YФракция синдар§!"
+halfelves_faction:0 "£halfelves_texticon §YФракция полуэльфов§!"
+orcs_faction:0 "£orcs_texticon §YФракция орков§!"
+nonelves_faction:0 "£nonelves_texticon §YФракция неэльфов§!"
+
+lthi_orcs_tt:0 "В настоящее время £orcs_texticon §YФракция орков§! имеет [?modifier@orcs_influence|O0] очков влияния, умножающих их бонусы на [?LTH.lthi_orcs_influence_fraction|%G0]."
+lthi_nandor_tt:0 "В настоящее время £nandor_texticon §YФракция нандор§! имеет [?modifier@nandor_influence|O0] очков влияния, умножающих их бонусы на [?LTH.lthi_nandor_influence_fraction|%G0]."
+lthi_noldor_tt:0 "В настоящее время £noldor_texticon §YФракция нолдор§! имеет [?modifier@noldor_influence|O0] очков влияния, умножающих их бонусы на [?LTH.lthi_noldor_influence_fraction|%G0]."
+lthi_sindar_tt:0 "В настоящее время £sindar_texticon §YФракция синдар§! имеет [?modifier@sindar_influence|O0] очков влияния, умножающих их бонусы на [?LTH.lthi_sindar_influence_fraction|%G0]."
+lthi_halfelves_tt:0 "В настоящее время £halfelves_texticon §YФракция полуэльфов§! имеет [?modifier@halfelves_influence|O0] очков влияния, умножающих их бонусы на [?LTH.lthi_halfelves_influence_fraction|%G0]."
+lthi_nonelves_tt:0 "В настоящее время £nonelves_texticon §YФракция неэльфов§! имеет [?modifier@nonelves_influence|O0] очков влияния, умножающих их бонусы на [?LTH.lthi_nonelves_influence_fraction|%G0]."
+
+lthi_bonuses_tt:0 "У каждой фракции есть один (или несколько) бонусов, которые зависят от процента общего §YВлияния§!, которым обладает фракция."
+
+nandor_minor:0 "£nandor_texticon "
+nandor_intermediate:0 "£nandor_texticon "
+nandor_major:0 "£nandor_texticon "
+noldor_minor:0 "£noldor_texticon "
+noldor_intermediate:0 "£noldor_texticon "
+noldor_major:0 "£noldor_texticon "
+sindar_minor:0 "£sindar_texticon "
+sindar_intermediate:0 "£sindar_texticon "
+sindar_major:0 "£sindar_texticon "
+halfelves_minor:0 "£halfelves_texticon "
+halfelves_intermediate:0 "£halfelves_texticon "
+halfelves_major:0 "£halfelves_texticon "
+orcs_minor:0 "£orcs_texticon "
+orcs_intermediate:0 "£orcs_texticon "
+orcs_major:0 "£orcs_texticon "
+nonelves_minor:0 "£nonelves_texticon "
+nonelves_intermediate:0 "£nonelves_texticon "
+nonelves_major:0 "£nonelves_texticon "
+
+nandor_minor_hired:0 "£nandor_texticon "
+nandor_intermediate_hired:0 "£nandor_texticon "
+nandor_major_hired:0 "£nandor_texticon "
+noldor_minor_hired:0 "£noldor_texticon "
+noldor_intermediate_hired:0 "£noldor_texticon "
+noldor_major_hired:0 "£noldor_texticon "
+sindar_minor_hired:0 "£sindar_texticon "
+sindar_intermediate_hired:0 "£sindar_texticon "
+sindar_major_hired:0 "£sindar_texticon "
+halfelves_minor_hired:0 "£halfelves_texticon "
+halfelves_intermediate_hired:0 "£halfelves_texticon "
+halfelves_major_hired:0 "£halfelves_texticon "
+orcs_minor_hired:0 "£orcs_texticon "
+orcs_intermediate_hired:0 "£orcs_texticon "
+orcs_major_hired:0 "£orcs_texticon "
+nonelves_minor_hired:0 "£nonelves_texticon "
+nonelves_intermediate_hired:0 "£nonelves_texticon "
+nonelves_major_hired:0 "£nonelves_texticon "
+
+lth_preemtptivedepartures_focus_tt:0 "Откроет решение §YЗаблаговременный исход§!, чтобы отправить определённых эльфов в Валинор, уменьшив влияние их фракции."
+
+
+lthi_bonuses_list:0 "$lthi_nandor_bonus_conscription$[Get_nandor_bonus_speed][Get_nandor_bonus_organization]$lthi_noldor_bonus_attack$[Get_noldor_bonus_breakthrough][Get_noldor_bonus_factoryoutput]$lthi_sindar_bonus_constructionspeed$[Get_sindar_bonus_supply][Get_sindar_bonus_research]$lthi_halfelves_bonus_experiencegain$[Get_lthi_halfelves_bonus_stability][Get_halfelves_bonus_consumergoods][Get_nonelves_bonus_monthlypop][Get_orcs_bonus_strength]"
+
+
+lthi_nandor_bonus_conscription:0 "£nandor_texticon: [?lthi_nandor_bonus_conscription|%G.1=] Военнообязанное население (макс. [?lthi_nandor_bonus_conscription_base|%G0])\n"
+lthi_nandor_bonus_speed:0 "£nandor_texticon: [?lthi_nandor_bonus_speed|%G.1=] Скорость дивизии (макс. [?lthi_nandor_bonus_speed_base|%G0])\n"
+lthi_nandor_bonus_organization:0 "£nandor_texticon: [?lthi_nandor_bonus_organization|%G.1=] Организация дивизии (макс. [?lthi_nandor_bonus_organization_base|%G0])\n"
+
+lthi_noldor_bonus_attack:0 "£noldor_texticon: [?lthi_noldor_bonus_attack|%G.1=] Атака дивизии (макс. [?lthi_noldor_bonus_attack_base|%G0])\n"
+lthi_noldor_bonus_breakthrough:0 "£noldor_texticon: [?lthi_noldor_bonus_breakthrough|%G.1=] Прорыв дивизии (макс. [?lthi_noldor_bonus_breakthrough_base|%G0])\n"
+lthi_noldor_bonus_factoryoutput:0 "£noldor_texticon: [?lthi_noldor_bonus_factoryoutput|%G.1=] Объём производства (макс. [?lthi_noldor_bonus_factoryoutput_base|%G0])\n"
+
+lthi_sindar_bonus_constructionspeed:0 "£sindar_texticon: [?lthi_sindar_bonus_constructionspeed|%G.1=] Скорость строительства (макс. [?lthi_sindar_bonus_constructionspeed_base|%G0])\n"
+lthi_sindar_bonus_supply:0 "£sindar_texticon: [?lthi_sindar_bonus_supply|%G.1=] Расход припасов (макс. [?lthi_sindar_bonus_supply_base|%G0])\n"
+lthi_sindar_bonus_research:0 "£sindar_texticon: [?lthi_sindar_bonus_research|%G.1=] Темпы исследований (макс. [?lthi_sindar_bonus_research_base|%G0])\n"
+
+lthi_halfelves_bonus_experiencegain:0 "£halfelves_texticon: [?lthi_halfelves_bonus_experiencegain|%G.1=] Получаемый опыт армии (макс. [?lthi_halfelves_bonus_experiencegain_base|%G0])\n"
+lthi_halfelves_bonus_stability:0 "£halfelves_texticon: [?lthi_halfelves_bonus_stability|%G.1=] Стабильность (макс. [?lthi_halfelves_bonus_stability_base|%G0])\n"
+lthi_halfelves_bonus_consumergoods:0 "£halfelves_texticon: [?lthi_halfelves_bonus_consumergoods|%G.1=] Фактор фабрик, производящих товары народного потребления (макс. [?lthi_halfelves_bonus_consumergoods_base|%G0])\n"
+
+lthi_nonelves_bonus_monthlypop:0 "£nonelves_texticon: [?lthi_nonelves_bonus_monthlypop|%G.1=] Ежемесячный прирост населения (макс. [?lthi_nonelves_bonus_monthlypop_base|%G0])\n"
+lthi_orcs_bonus_strength:0 "£orcs_texticon: [?lthi_orcs_bonus_strength|%G.1=] ОЗ дивизии (макс. [?lthi_orcs_bonus_strength_base|%G0])\n"
+
+
+
+
+
+lth_greatestofwarriors_tt:0 "Даёт бонус §G+10.0%§! §YПрорыв дивизии§! для $noldor_faction$."
+lth_metalworkandjewellery_tt:0 "Даёт бонус §G+15.0%§! §YОбъём производства§! для $noldor_faction$."
+lth_thereawakening_tt:0 "Все бонусы фракции $noldor_faction$ увеличиваются на §G50.0%§! от их текущего значения."
+
+elven_imperial_rule:0 "Эльфийское имперское правление"
+
+lthi_influence_bonuses:0 "Бонусы эльфийской фракции"
+lthi_influence_bonuses_desc:0 "Народ Лотлориэна состоит из эльфов с разным происхождением и наследием. Каждая фракция привносит свои уникальные навыки и знания, в зависимости от того, насколько велико их влияние на серебряный анклав."
+
+lothlorien_influence_decisions_category:0 "Эльфийские фракции Лотлориэна"
+lth_immortal_endurance_modifier:0 "Бессмертная стойкость"
+lth_immortal_endurance_modifier_desc:0 "Продолжительность эльфийского бессмертия сопровождается умственной стойкостью, которую примитивные смертные не в состоянии даже постичь."
+lth_add_immortal_endurance_tt:0 "Добавляет §Y$lth_immortal_endurance_modifier$§!, который даёт §G+2.0%§! §Y$MODIFIER_LOCAL_RESOURCES_FACTOR$§!, §G+2.0%§! §Y$MODIFIER_PRODUCTION_SPEED_BUILDINGS_FACTOR$§!, §G+2.0%§! §Y$MODIFIER_GLOBAL_BUILDING_SLOTS_FACTOR$§!.\n Эти бонусы увеличиваются на дополнительные §G+2.0%§! §Yкаждый год§!, до максимума в §G+14.0%§!."
+
+lth_immortal_endurance_modifier_tt:0 "[GetImmortalEnduranceModifierTT]"
+lth_immortal_endurance_modifier_tt_base:0 ""\nЭти бонусы увеличиваются на §G+2.0%§! каждый год, максимум до §G+14.0%§!:\n\n"
+lth_immortal_endurance_modifier_tt_enhanced:0 ""\nЭти бонусы увеличиваются на §G+4.0%§! каждый год, максимум до §G+40.0%§!:\n\n"
+
+lth_endurethedarkness_tt:0 "Увеличивает скорость роста духа §YБессмертная стойкость§! до §G+4.0%§! в год и увеличивает максимальный предел до §G+40.0%§!."
+
+LTH_total_isolation_idea:0 "Полная изоляция"
+LTH_total_isolation_idea_desc:0 "Окутанный аурой замкнутости, Лотлориэн выбрал путь самодостаточности и укрепления защиты. Обратившись внутрь себя, королевство отстранилось от бурного мира, сосредоточившись на неприступной обороне и в одиночестве перенося бури конфликтов Средиземья."
+
+LTH_isolationist_reservations_total_isolation:0 "Изоляционистские резервации"
+LTH_isolationist_reservations_3:0 "Изоляционистские резервации"
+LTH_isolationist_reservations_2:0 "Изоляционистские резервации"
+LTH_isolationist_reservations_1:0 "Изоляционистские резервации"
+
+LTH_isolationist_reservations_total_isolation_desc:0 "Укоренившись в традициях уединения, жители Лотлориэна придерживаются осторожной позиции, предпочитая компанию себе подобных и уединенность своего заколдованного королевства. К дипломатии они относятся с осторожностью, поскольку эльфы Лотлориэна не решаются выйти за пределы своих границ, оберегая свой образ жизни от неопределенностей внешнего мира."
+LTH_isolationist_reservations_3_desc:0 "Укоренившись в традициях уединения, жители Лотлориэна придерживаются осторожной позиции, предпочитая компанию себе подобных и уединенность своего заколдованного королевства. К дипломатии они относятся с осторожностью, поскольку эльфы Лотлориэна не решаются выйти за пределы своих границ, оберегая свой образ жизни от неопределенностей внешнего мира."
+LTH_isolationist_reservations_2_desc:0 "Укоренившись в традициях уединения, жители Лотлориэна придерживаются осторожной позиции, предпочитая компанию себе подобных и уединенность своего заколдованного королевства. К дипломатии они относятся с осторожностью, поскольку эльфы Лотлориэна не решаются выйти за пределы своих границ, оберегая свой образ жизни от неопределенностей внешнего мира."
+LTH_isolationist_reservations_1_desc:0 "Укоренившись в традициях уединения, жители Лотлориэна придерживаются осторожной позиции, предпочитая компанию себе подобных и уединенность своего заколдованного королевства. К дипломатии они относятся с осторожностью, поскольку эльфы Лотлориэна не решаются выйти за пределы своих границ, оберегая свой образ жизни от неопределенностей внешнего мира."
+
+LTH_celeborn_and_galadriel:0 "Правление Келеборна и Галадриэль"
+LTH_celeborn_and_galadriel_desc:0 "Келеборн и Галадриэль - соправители Лотлориена. Благодаря их мудрости и силе королевство прошло через все минувшие опасности. Население полностью доверяет их мудрости."
+
+LTH_great_schism:0 "Раскол"
+LTH_great_schism_desc:0 "Во время кризиса расхождения во взглядах на мир привели к беспрецедентному напряжению между Келеборном и Галадриэль. Если эти разногласия не будут разрешены в ближайшее время, это может привести к катастрофическим последствиям."
+
+LTH_celeborn_and_galadriel_mended:0 "Правление Келеборна и Галадриэль сохранено"
+LTH_celeborn_and_galadriel_mended_desc:0 "Келеборн и Галадриэль, несмотря на свои противоположные взгляды, примирили свои разногласия, чтобы сформировать союз, лавирующий между эгалитаризмом и авторитарностью."
+
+LTH_sky_soil_and_water:0 "Небо, почва и вода"
+LTH_sky_soil_and_water_desc:0 "Лотлориэн вновь подтвердил клятву Феанора, принесенную нолдорами, которая претендует на злосчастные Сильмарилы. Как предсказал Мандор, Сильмарилы теперь вложены в три стихии - небо, землю и воду, но это не отменяет клятвы."
+
+LTH_the_last_eldar:0 "Последние эльдар Средиземья"
+LTH_the_last_eldar_desc:0 "Будучи последним анклавом эльдар в Средиземье, Лотлориэн хранит древние эльфийские традиции и мудрость. Выступая в качестве пышного арьергарда эльфийского мира, эти превосходные эльфы не знают себе равных в воинском мастерстве и мудрости."
+
+LTH_the_sacred_trees:0 "Магическая эссенция мэллорнов"
+LTH_the_sacred_trees_desc:0 "Мэллорны, почитаемые и волшебные деревья, оберегают Лотлориэн, наделяя королевство великолепием и волшебством."
+
+LTH_the_sacred_trees_2:0 "Магическая эссенция мэллорнов"
+LTH_the_sacred_trees_2_desc:0 "Мэллорны, почитаемые и волшебные деревья, оберегают Лотлориэн, наделяя королевство великолепием и волшебством."
+
+LTH_blades_of_the_eldar:0 "Клинки эльдар"
+LTH_blades_of_the_eldar_desc:0 "Эльфийские воины владеют клинками, выкованными с точностью и мастерством эльдар. Их зачарованные клинки мерцают в присутствии орков и гоблинов."
+
+LTH_silverthorn_arrows:0 "Стрелы из сребротерновника"
+LTH_silverthorn_arrows_desc:0 "Лучники Лотлориэна славятся своими стрелами из серебристого терновника, смертоносным свидетельством эльфийского мастерства."
+
+LTH_silvan_elite_warriors:0 "Сильванские элитные воины"
+LTH_silvan_elite_warriors_desc:0 "Элитные воины Лотлориена хорошо владеют боевыми приемами сильванов, сочетая в себе природную и боевую доблесть."
+
+LTH_decadent_nobility:0 "Декадентский нобилитет"
+LTH_decadent_nobility_desc:0 "Самые богатые и влиятельные эльфы Золотого Леса в первую очередь озабочены своим отбытием в Валинор. Если Тёмного Властелина нужно остановить, лучше, чтобы об этом позаботился кто-то другой."
+
+LTH_decadent_nobility_coop:0 "Десятилетнее дворянство"
+LTH_decadent_nobility_coop_desc:0 "Самые богатые и влиятельные эльфы Золотого Леса в первую очередь озабочены своим уходом в Валинор. Если бы Темному Властелину потребовалась остановка, лучше бы об этом позаботился кто-то другой."
+
+LTH_noldor_elite:0 "Элита нолдор"
+LTH_noldor_elite_desc:0 "В дворянстве Лотлориена доминирует могущественная клика нолдорских аристократов."
+
+LTH_borders_sealed:0 "Запечатанные границы."
+LTH_borders_sealed_desc:0 "Границы Лотлориена закрыты от внешних посягательств. Не стоит входить в Золотой Лес без приглашения."
+
+LTH_hidden_realm:0 "Скрытое царство"
+LTH_hidden_realm_desc:0 "С помощью магических чар и неустанной изоляции Лотлориен превратился в скрытое царство, сохранившее свою неземную красоту и загадочную привлекательность. Для большинства эльфийский анклав, которым правит Галадриэль, - не более чем сказка."
+
+LTH_the_last_stand:0 "Последний рубеж"
+LTH_the_last_stand_desc:0 "Перед лицом невзгод жители Лотлориена объединяются, готовые до последнего защищать свое королевство."
+
+LTH_limited_intervention_idea:0 "Ограниченное вмешательство"
+LTH_limited_intervention_idea_desc:0 "Лотлориэн придерживается ограниченного вмешательства во внешние конфликты, сосредоточившись на самосохранении и поддержании стабильности на достаточно длительное время, чтобы облегчить свой уход в Валинор."
+
+LTH_aegis_of_light:0 "Эгида Света"
+LTH_aegis_of_light_desc:0 "Что бы ни случилось с остальной частью Среднеземья, свет Лотлориэна никогда не погаснет."
+
+LTH_river_anduin_commerce:0 "Торговля на реке Андуин."
+LTH_river_anduin_commerce_desc:0 "Торговля Лотлориэна выигрывает от его расположения вдоль реки Андуин, способствуя торговле и культурному обмену."
+
+LTH_unflinching_defender:0 "Непоколебимый защитник."
+LTH_unflinching_defender_desc:0 "Земли вокруг Нимроделя были домом для эльфов с ранних времен. Силы тьмы наверняка попытаются изменить это. Пусть попробуют, если осмелятся."
+
+LTH_girdle_of_melian:0 "Пояс Мелиан"
+LTH_girdle_of_melian_desc:0 "Оградительное заклинание, не позволяющее проникнуть на землю этой страны без воли и согласия её правителей."
+
+LTH_tha_fate_of_mortals:0 "Судьба смертных."
+LTH_tha_fate_of_mortals_desc:0 "Солнце закатывается над жалким, мимолетным существованием смертных рас. Разве может сравниться увядающая жизнь людей с вечностью эльфийского царства?"
+
+LTH_merit_based_advancement:0 "Продвижение по заслугам"
+LTH_merit_based_advancement_desc:0 "Общество Лотлориэна ценит заслуги, предлагая продвижение по службе в зависимости от мастерства и вклада."
+
+LTH_peasant_assembly:0 "Земское собрание"
+LTH_peasant_assembly_desc:0 "Крестьяне этой страны играют активную роль в управлении, участвуя в местных собраниях, чтобы высказать свое мнение."
+
+LTH_fading_trees:0 "Увядающие мэллорны"
+LTH_fading_trees_desc:0 "Могучие деревья мэллорн в Лотлориене начали увядать. Связь между эльфами и деревьями ослабевает."
+LTH_fading_trees_2:0 "Таинственная болезнь"
+LTH_fading_trees_2_desc:0 "С увяданием мэллорнов в Лотлориен пришел тёмный разлом. Его жители страдают от загадочной болезни."
+LTH_fading_trees_protective_enchantment:0 "Зачарование тёмного разлома."
+LTH_fading_trees_protective_enchantment_desc:0 "После устранения тёмного разлома Лотлориен наслаждается благами вновь сотворённых защитных чар."
+
+investigate_the_giant:0 "Исследовать гиганта"
+investigate_the_giant_desc:0 "Мистический курган, который мы обнаружили, похоже, является спящим великаном. Мы должны исследовать его."
+investigate_the_giant_2:0 "Атаковать гиганта."
+investigate_the_giant_2_desc:0 "Великан и раньше побеждал наши войска, но в этот раз мы пришли хорошо подготовленными."
+lothlorien_mirror_decisions_category:0 "Зеркало Галадриэль"
+LTH_giant_slayer:0 "Истребитель великанов"
+LTH_giant_slayer_desc:0 "Этот народ поверг великана."
+m_storyline_giant_arrows:0 "Получил стрелы великанобои"
+m_storyline_giant_rod:0 " Получил жезл управления."
+LTH_loose_giant:0 "Освобожденный гигант"
+LTH_loose_giant_desc:0 "Великан бесцельно бродит по лесам Лотлориэна."
+LTH_fortification_focus:0 "Строительство укреплений"
+
+increase_noldor_bonus_20p_tt:0 "Увеличивает все бонусы £noldor_texticon Фракции нолдор на §G20%§!."
+increase_halfelves_bonus_20p_tt:0 "Увеличивает все бонусы £halfelves_texticon Фракции полуэльфов на §G20%§!."
+increase_nandor_bonus_20p_tt:0 "Увеличивает все бонусы £nandor_texticon Фракции нандор на §G20%§!."
+increase_sindar_bonus_20p_tt:0 "Увеличивает все бонусы £sindar_texticon Фракции синдар на §G20%§!."
+
+increase_noldor_bonus_30p_tt:0 "Увеличивает все бонусы £noldor_texticon Фракции нолдор на §G30%§!."
+increase_halfelves_bonus_30p_tt:0 "Увеличивает все бонусы £halfelves_texticon Фракции полуэльфов на §G30%§!."
+increase_nandor_bonus_30p_tt:0 "Увеличивает все бонусы £nandor_texticon Фракции нандор на §G30%§!."
+increase_sindar_bonus_30p_tt:0 "Увеличивает все бонусы £sindar_texticon Фракции синдар на §G30%§!."
+stolen_tech_bonus:0 "Краденый бонус технологий"
+
+lth_provincialcouncils_tt:0 "Откроет политического советника с чертой §YПровинциальный советник§!, которая даёт:\n$provincial_councilor_tt$.\n\nЕсли слот советника свободен, советник будет автоматически нанят."
+lth_reformtaxcollection_tt:0 "Добавит 4 §Yгражданские фабрики§! в каждую провинцию, в которое ранее были вложены средства."
+lth_localautonomy_tt:0 "Отключит сопротивление и добавит §G+25%§! подчинения каждой провинции, в которую ранее были вложены средства."
+lth_territorialintegration_tt:0 "Каждая провинция, в которую ранее были вложены средства, станет национальной."
+lth_guardiansoftheriveranduin_tt:0 "Все лидеры наших отрядов получат черту §Y$river_specialist$§!, дающее §G-30.0%§! $MODIFIER_RIVER_CROSSING_PENALTY_FACTOR$."
+lth_patrolsandriverwardens_tt:0 "Значительно снижает вероятность успеха рейдов из [DGU.GetFlag] Дол-Гулдура."
+lth_thefortressofdolguldur_tt:0 "Слегка снижает вероятность успеха рейдов из [DGU.GetFlag] Дол Гулдура."
+lth_strengthenfortifications_tt:0 "Добавляет §G5§! §Yукреплений§! в каждую провинцию в §Y$STATE_75$§! вдоль реки Андуин."
+lth_helpmirkwoodwithcontainment_tt:0 "Мы поможем Лихолесью добиться подчинения и снизить сопротивление в $STATE_87$."
+lth_theminesofmoria_tt:0 "Немного снижает вероятность успеха рейдов [MOC.GetFlag] Орков Мории."
+
+lth_forcetheissue_tt:0 "Мы получим §Yтри способа§! для решения проблемы Дол-Гулдура раз и навсегда."
+lth_trackdowndurinsbane_tt:0 "Снимает модификаторы §Y$moria_loose_balrog$§! с §Y$STATE_73$§! и §Y$STATE_134$§!\n\nЕсли мы обладаем §YЕдиным Кольцом§!, мы можем принудить Балрога служить нам."
+lth_cooperationefforts_tt:0 "[LTH.GetNameWithFlag] и [VAL.GetNameWithFlag] получат 25-100 £army_experience §Yопыта армии§! и 1-3 §Yгражданских фабрик§!, в зависимости от того, какой подарок мы выбрали в предыдущем фокусе."
+lth_amostgenerousoffer_tt:0 "Мы предложим [VAL.GetNameWithFlag] некоторые территории и гражданские фабрики в обмен на подчинение.\n\nЕсли они примут:\n"
+lth_agestureofgoodwill_tt:0 "Нам будет предоставлено §Yтри варианта§! возможных подарков для [VAL.GetNameWithFlag]."
+lth_consecrated_land:0 "Освящённая земля"
+lth_consecrated_land_desc:0 "Эта земля благословлена эльфийской магией."
+lth_thetwinheartsoflothlorien_tt:0 "§Y$STATE_222$§! Добавит §Yгражданских фабрик§! в размере §G50%§! от гражданских фабрик в §Y$STATE_75$§! (В настоящее время: [?75.industrial_complex_level])\n\n§Y$STATE_75$§! добавит §Yвоенные заводы§! в размере §G50%§! от военных заводов в §Y$STATE_222$§! (Сейчас: [?75.arms_factory_level])\n\nЕсли у вас больше §Y50%§! $nandor_influence$, эти значения увеличатся до §G80%§!."
+lth_sendaidtohelmsdeep_tt:0 "[ROH.GetNameWithFlag] создаст две дивизии из 7 батальонов пехоты, 4 батальонов лучников и знаменосца в Хельмовой Пади."
+lth_sendaidtominastirith_tt:0 "[GOH.GetNameWithFlag] создаст две дивизии из 7 батальонов пехоты, 4 батальонов лучников и знаменосца в Минас Тирите."
+lth_supportmordorsenemies_tt:0 "Откроет дополнительные решения для помощи странам, которые находятся в состоянии войны с [MOR.GetNameWithFlag]."
+lth_preservationofknowledge_tt:0 "Добавляет §Gтемп иссдедований§! к бонусам, даваемым национальным духом §YБессмертная стойкость§!."
+impregnable_fortress:0 "Неприступная крепость"
+lth_defensiveperimeter_tt:0 "Добавит §G5§! §Y$anti_air_building$§! во все наши национальные провинции.\nДобавит §G4§! §Y$bunker$§! в каждую провинцию на наших стартовых границах."
+lth_thecallofvalinor_tt:0 "Население наших национальных провинций будет периодически уменьшаться, по мере того как будет происходить отплытие в Валинор.\nЧерез год после завершения этого фокуса §YКелеборн§! и §YГаладриэль§! уйдут."
+lth_twilight_garden:0 "Сумеречный сад"
+lth_twilight_garden_desc:0 "Солнце садится на эльфийский мир в Средиземье. Пока последние из нашего народа готовятся к отъезду, идиллический анклав Лотлориэн будет служить прекрасной и нежной колыбелью на пути к бессмертию."
+lth_galadrielspowers_tt:0 "Все лидеры наших отрядов получат черту §Y$galadriels_blessing_trait$§!\n -$MODIFIER_SICKNESS_CHANCE$: §G-100.0%§!\n -$MODIFIER_WOUNDED_CHANCE_FACTOR$: §G-100.0%§!"
+yavannas_blessing:0 "Благословение Яванны"
+aules_benison:0 "Благодать Ауле"
+galadriels_blessing_trait:0 "Благословение Галадриэль"
+
+increase_influence_nandor_tt:0 "Увеличит $nandor_influence$ на §G+$RIGHT$§!."
+increase_influence_noldor_tt:0 "Увеличит $noldor_influence$ на §G+$RIGHT$§!."
+increase_influence_sindar_tt:0 "Увеличит $sindar_influence$ на §G+$RIGHT$§!."
+increase_influence_halfelves_tt:0 "Увеличит $halfelves_influence$ на §G+$RIGHT$§!."
+increase_influence_nonelves_tt:0 "Увеличит $nonelves_influence$ на §G+$RIGHT$§!."
+increase_influence_orcs_tt:0 "Увеличит $orcs_influence$ на §G+$RIGHT$§!."
+
+decrease_influence_nandor_tt:0 "Уменьшит $nandor_influence$ на §R$RIGHT$§!."
+decrease_influence_noldor_tt:0 "Уменьшит $noldor_influence$ на §R$RIGHT$§!."
+decrease_influence_sindar_tt:0 "Уменьшит $sindar_influence$ на §R$RIGHT$§!."
+decrease_influence_halfelves_tt:0 "Уменьшит $halfelves_influence$ на §R$RIGHT$§!."
+decrease_influence_nonelves_tt:0 "Уменьшит $nonelves_influence$ на §R$RIGHT$§!."
+decrease_influence_orcs_tt:0 "Уменьшит $orcs_influence$ на §R$RIGHT$§!."
+
+nandor_trait:0 "Нандор"
+nandor_trait_desc:0 "Эльф нандорского происхождения"
+noldor_trait:0 "Нолдор"
+noldor_trait_desc:0 "Эльф нолдорского происхождения"
+sindar_trait:0 "Синдар"
+sindar_trait_desc:0 "Эльф синдарского происхождения"
+halfelves_trait:0 "Полуэльф"
+halfelves_trait_desc:0 "Смешанная человеческая и эльфийская кровь"
+nonelves_trait:0 "Неэльф"
+nonelves_trait_desc:0 "Неэльфийская кровь"
+orcs_trait:0 "Orc"
+orcs_trait_desc:0 "Прислужник тьмы"
+galadriels_blessing_trait:0 "Благословение Галадриэль"
+galadriels_blessing_trait_desc:0 "Это существо защищено божественным покровом леди Галадриэль."
+river_specialist:0 "Специалист по речным войнам"
+river_specialist_desc:0 "Обучен искусству вести сражения в потоках воды."
+mirrors_chosen:0 "Избранный Зеркалом"
+mirrors_chosen_desc:0 "Зеркало Галадриэль пророчит этому существу великие победы."
+mirrors_doomed:0 "Обречённый Зеркалом"
+mirrors_doomed_desc:0 "Зеркало Галадриэль пророчит смерть и страдания для этого существа."
+
+lth_thenandorheritage_tt:0 "Даёт бонус §G+15.0%§! §Hорганизации дивизии§! для $nandor_faction$."
+lthi_increase_bonuses_50percent:0 "Все бонусы $nandor_faction$ увеличиваются на §G50.0%§! от их текущего значения."
+lth_guardiansofthewild_tt:0 "Даёт бонус  §G+15.0%§! §Hскорости дивизии§! для $nandor_faction$."
+lth_discovernewrealms_tt:0 " Увеличивает бонус §Hвоеннообязанного населения§! для $nandor_faction$ на §G+15.0%§!."
+oath_of_feanor:0 "Клятва Феанора"
+lth_wisdomofeluthingol_tt:0 "Даёт бонус §G+15.0%§! §Hтемпам исследования§! для $sindar_faction$."
+lth_affiliatewithlindon_tt:0 "[LIN.GetNameWithFlag] выберет один из бонусов $sindar_faction$, который будет удвоен."
+lth_refugeofdoriath_tt:0 "Даёт бонус §G$RIGHT%§! §Hрасходу припасов§! для $sindar_faction$."
+lth_celebrateperendhillegends_tt:0 "Даёт бонус §G+15.0%§! §Hстабильности§! для $halfelves_faction$."
+lth_diorthefair_tt:0 "Даёт бонус §G-16.0%§! §Hфактора фабрик, производящих товары народного потребления§! для $halfelves_faction$."
+lth_earendilthemariner_tt:0 "Даёт бонус §G+15.0%§! §Hполучаемого опыта армии§! для $halfelves_faction$."
+
+lth_galadrielsmirror_tt:0 "Открывает решения §Y$Зеркало Галадриэль§!, позволяющие получить временные бонусы или заглянуть в будущее других стран."
+lth_mirrorupgrade_tt:0 "Уменьшает время ожидания решения §Y$look_into_mirror$§!\nЗначительно повышает шансы получить положительный результат от видений Зеркала.\nУвеличивает количество стран, в будущее которых мы можем заглянуть.\n"
+
+LTH_silverthorn_arrows:0 "Стрелы из сребротерновника"
+LTH_silverthorn_arrows_desc:0 "Эти зачарованные стрелы с наконечником из сребротерновника были мастерски изготовлены искусными лучниками Лотлориэна. Серебристый терновник - редкое растение, обладающее магическими свойствами, которые делают его очень эффективным против противоестественных существ и порождений тьмы."
+LTH_blades_of_the_eldar:0 "Клинки эльдар"
+LTH_blades_of_the_eldar_desc:0 "Выкованные с непревзойденным мастерством и пропитанные эльфийской магией, клинки эльдар являются ценнейшим оружием, которым владеют искусные эльфийские воины."
+
+lth_sentinelsofcerinamroth_tt:0 "Будет создано три элитных подразделения в §YКерин Амрот§!, состоящие из пограничных стражей, лучниокв и тропоходцев."
+
+lth_nenya_enchantment:0 "Защитные чары Нэньи"
+lth_nenya_enchantment_desc:0 "Кольцо Галадриэль, Нэнья, наделено силой ограждения и сокрытия от зла."
+
+lth_consulttheels_tt:0 "Отправить послание в [RIV.GetNameWithFlag], [MIR.GetNameWithFlag] и [LIN.GetNameWithFlag]. Их ответы увеличат влияние выбранной ими фракции."
+lth_electedrepresentatives_tt:0 "Заполнит все слоты в §YМалом Совете§! (кроме §YГлавного советника§!) случайными советниками (если они пусты)."
+lth_appointedrepresentatives_tt:0 "Стоимость следующего нанятого §Yказначея§!, §Yшпион-мастера§! или §Yполитического советника§! уменьшится на §G-66%§!."
+
+lth_thegreatschism_tt:0 "\n§RЕсли раскол не будет разрешён в течение 450 дней, разразится гражданская война.§!"
+
+mirror_predictable:0 "\n(Исход этого события можно предсказать с помощью §YЗеркала Галадриэль§!)"
+lth_purityandbrilliance_tt:0 "Любая фракция с влиянием более §Y80%§! автоматически получает удвоение всех своих бонусов."
+fair_as_the_sea_and_sun:0 "Справедливая, как море и солнце"
+dreadful_as_storm_and_lightning:0 "Грозная, как буря и молния"
+lth_atasteofempire_tt:0 "Откроет оккупационную политику §Y$elven_imperial_rule$l§!."
+lth_reformmilitaryleadership_tt:0 "Каждый армейский лидер с §Yуровнем навыка 1§! будет уволен.\nКаждый армейский лидер с §Yнавыком уровня 2§! и выше получит один дополнительный уровень навыка."
+
+lth_thequeensguard_tt:0 "Создаст в §YКарас Галадоне§! одну элитную дивизию, состоящую из большого количества пехоты и лучников."
+
+lth_send_subjugation_demand_tt:0 "Потребовать от [THIS.GetName] либо платить дань, либо подчиниться нам."
+lth_send_subjugation_demand_elves_tt:0 " Предложить [THIS.GetName] стать нашей марионеткой."
+lth_avenge_demand_refusal_tt:0 "Получим цель войны для каждой страны, которая отказалась от наших требований дани или подчинения."
+lth_labourtaxfornonelves_tt:0 "Добавит §G2§! §Yгражданские фабрики§! и §G2§! §Yвоенные фабрики§! за каждого неэльфийского субъекта, который у нас есть."
+
+unlock_ring_mechanic_tt:0 "Откроет доступ к решениям §YЕдиного Кольца§!."
+autocompleted_on_event_tt:0 "§OЭтот фокус автоматически завершается, если выполнены все условия для него.§!"
+lth_publiccelebrations_tt:0 "Начинается цепочка событий §YПубличных торжеств§!, дающая нам несколько вариантов выбора, которые повлияют на конечный результат фокуса."
+
+LTH_harmonic_ascendancy:0 "Гармоническое вознесение"
+LTH_harmonic_ascendancy_desc:0 "Новая эра наступает в волшебном королевстве Лотлориэн, когда леди Галадриэль и лорд Келеборн отбрасывают прочь разногласия, которые когда-то разделяли их, и соглашаются вновь работать вместе в интересах народа Лотлориэна.\n\nДолжно пройти время, пока заживут следы раскола и правители преодолеют пропасти, когда-то разделявшие их. Как только они это сделают, будет проложен путь в будущее, где их совокупная сила и мудрость откроют новую эпоху для нашего королевства."
+
+LTH_harmonic_ascendancy_2:0 "Гармоническое вознесение"
+LTH_harmonic_ascendancy_2_desc:0 "Новая эра наступает в волшебном королевстве Лотлориэн, когда леди Галадриэль и лорд Келеборн отбрасывают прочь разногласия, которые когда-то разделяли их, и соглашаются вновь работать вместе в интересах народа Лотлориэна.\n\nДолжно пройти время, пока заживут следы раскола и правители преодолеют пропасти, когда-то разделявшие их. Как только они это сделают, будет проложен путь в будущее, где их совокупная сила и мудрость откроют новую эпоху для нашего королевства.
+
+LTH_harmonic_ascendancy_3:0 "Гармоническое вознесение"
+LTH_harmonic_ascendancy_3_desc:0 "Новая эра наступает в волшебном королевстве Лотлориэн, когда леди Галадриэль и лорд Келеборн отбрасывают прочь разногласия, которые когда-то разделяли их, и соглашаются вновь работать вместе в интересах народа Лотлориэна.\n\nДолжно пройти время, пока заживут следы раскола и правители преодолеют пропасти, когда-то разделявшие их. Как только они это сделают, будет проложен путь в будущее, где их совокупная сила и мудрость откроют новую эпоху для нашего королевства."
+
+lth_harmonicascendancy_tt:0 "Добавит §Y$LTH_harmonic_ascendancy$§!, который даёт различные эффекты с течением времени, пока Раскол Галадриэль и Келеборна продолжает исцеляться.\n\nЧерез один год:"
+lth_harmonicascendancy_tt_2:0 "\nЧерез два года:"
+lth_harmonicascendancy_tt_3:0 "\nЧерез три года:"
+
+lth_after_one_year:0 "\nЧерез один год: "
+lth_after_two_years:0 "\nЧерез два года: "
+
+lth_ancestralechoesintandem_tt:0 "$sindar_faction$ и $noldor_faction$ разделят свои очки влияния."
+LTH_celeborn_galadriel_accord_cele:0 "Соглашение Галадриэль и Келеборна: срок Келеборна."
+LTH_celeborn_galadriel_accord_cele_desc:0 "Лотлориэн придумал новую, необычную форму правления. Два правителя, Галадриэль и Келеборн, сменяют друг друга, чередуясь каждый год."
+LTH_celeborn_galadriel_accord_gala:0 "Соглашение Галадриэль и Келеборна: срок Галадриэль"
+LTH_celeborn_galadriel_accord_gala_desc:0 "Лотлориэн придумал новую, необычную форму правления. Два правителя, Галадриэль и Келеборн, возглавляют страну по очереди, сменяя друг друга каждый год."
+
+lth_celeborngaladrielaccord_tt:0 "Галадриэль и Келеборн будут поочередно возглавлять страну, сменяя друг друга раз в год. На время правления одного из них другой станет главным советником."
+
+supreme_leader:0 "Верховный правитель Лотлориэна"
+
+no_high_taxes_tt:0 "Политика "§Yвысокие налоги§!" станет недоступной."
+
+lthi_influence_bonuses_tt:0 "\n(Эти модификаторы зависят от влияния и бонусов каждой эльфийской фракции)"
+lth_unity_in_division_modifier_tt:0 "\n(Эти модификаторы увеличиваются в зависимости от того, насколько равномерно распределено влияние эльфийских фракций)"
+
+lth_unityindivision_tt:0 "Даёт §Y$lth_unity_in_division_modifier$§!, который даёт §G0%§!-§G15%§! §Yстабильности§!, §Yскорости строительства§! и §Yскорости исследований§! в зависимости от того, насколько равномерно распределено влияние наших фракций."
+
+lth_tamingthewild_tt:0 "Все лидеры наших отрядов с уровнем §Yнавыка§! 2 или выше получают черту §Y$forest_skirmisher$§!."
+
+forest_skirmisher:0 "Лесной нападающий."
+forest_skirmisher_desc:0 "Особая связь с природой, выработанная бесчисленными часами в дикой природе."
+
+LTH_great_beasts:0 "Великие звери"
+LTH_great_beasts_desc:0 "Орлы и Крылатые твари - одни из самых страшных существ Среднеземья. Жители этого края установили тесную связь с этими крылатыми зверями, которых они способны обрушить на поле боя."
+
+lth_supportspiderindependence_tt:0 "[SPI.GetNameWithFlag] с большей вероятностью станет независимым."
+
+lth_unity_in_division_modifier:0 "Единство в дивизии"
+lth_unity_in_division_modifier_desc:0 "Благодаря взаимному сотрудничеству дивизии из различных эльфийских королевств получают улучшенную организацию и координацию, обеспечивая гармоничную синергию, максимально раскрывающую их коллективный потенциал."
+
+LTH_lead_by_example:0 "Лидерство на примере."
+LTH_lead_by_example_desc:0 "Когда мы ведем наших людей в новое, лучшее будущее, крайне важно следовать тем принципам, которые мы проповедуем."
+
+lth_eaglesofmanwe_tt:0 " Получить §G80§! §YОрлов-истребителей§!."
+lth_fellbeastsofmordor_tt:0 "Получить §G80§! §YКрылатых тварей-истребителей§!."
+
+lth_spider_cooperation_tt:0 "Не находясь в состоянии войны с пауками, [LTH.GetName] будет периодически порождать две дивизии §Yпаучьих отродий§! в §YКарас Галадоне§! каждый год."
+
+lth_orc_prisoners_tt:0 "Пока мы не являемся союзниками [MOR.GetNameWithFlag], мы будем периодически создавать две дивизии §YOrc Prisoner§! в §YCaras Galadhon§! каждый год. Немедленно будут созданы две дивизии."
+
+lth_theforestbetween_tt:0 "Пока мы находимся в мире с энтами и пауками, периодически порождаемые дивизии §YSpiderling§! будут также включать в себя контингент §YEnts§! Немедленно будет создана одна такая дивизия."
+
+lth_pressurethranduil_tt:0 "Если обе страны согласятся, [ERE.GetNameWithFlag] и [MIR.GetNameWithFlag] подпишут §Yпакт о ненападении§!."
+
+lth_supportthegreycompany_tt:0 "§Y[RIV.GetNameWithFlag]§!, §Y[ART.GetNameWithFlag]§! и §Y[RHD.GetNameWithFlag]§! получат запрос о поддержке.\nЕсли хотя бы §Y2§! страны согласятся, §Y[ART.GetNameWithFlag]§! и §Y[RHD.GetNameWithFlag]§! получат по четыре дивизии пехоты и лучников."
+
+lthi_activate_orcs_tt:0 "$orcs_faction$" подключается к системе влияния с §Y100§! очками влияния и бонусом §G+10.0%§! к §YОЗ дивизии§!."
+lthi_activate_nonelves_tt:0 " $nonelves_faction$ подключается к системе влияния с §Y50§! очками влияния и бонусом §G+10.0%§! к §Yприросту населения§!."
+
+lth_nonelvencitizenship_tt:0 " Откроет несколько гномьих и человеческих советников и генералов."
+
+lth_anewbreed_tt:0 " Утроит бонус $orcs_faction$.\nВлияние $orcs_faction$ будет расти на §G+3§! каждую неделю."
+
+lth_requestaseatonelrondscouncil_tt:0 "Мы отправим запрос [RIV.GetNameWithFlag] с просьбой о месте в Совете Элронда, что позволит нам добавить воина в Братство и проголосовать за его путь в Мордор."
+
+ring_start_elven_fellowship_tt:0 "Мы соберем новое Братство Кольца и отправим его в Мордор с миссией уничтожить Единое Кольцо. Новое братство будет состоять из §YХалдира§!, §YОрофина§!, §YРумиля§!, §ҮТарборна§! и §ҮЛетсаэля§! (если есть)."
+
+lth_dismantlethenazgul_tt:0 "Откроет решения, позволяющие нам уничтожить назгулов Мордора."
+
+lth_thegiftofservitude_tt:0 "Значительно увеличивает размер периодически создаваемых дивизий §YOrc Prisoner§! Немедленно будут созданы два таких."
+
+lth_safehaven_tt:0 "Всякий раз, когда член нашего альянса капитулирует, мы сможем разместить у себя его правительство в изгнании. Каждый раз, когда это происходит, мы получаем §Y100 тысяч§! человеческого ресурса."
+
+lth_alliance_of_light_group_name:0 "Альянс исследования света"
+lth_alliance_of_light_group_desc:0 "Обмен знаниями внутри Альянса Света Лотлориэна"
+
+white_council_group_name:0 "Исследования Белого Совета"
+white_council_group_desc:0 "Обмен знаниями внутри Белого Совета"
+
+lthi_increase_bonus_nandor_tt:0 "Увеличит все бонусы $nandor_faction$ на §G+20%§! (мультипликативно)."
+lthi_increase_bonus_noldor_tt:0 " Увеличит все бонусы $noldor_faction$ на §G+20%§! (мультипликативно)."
+lthi_increase_bonus_sindar_tt:0 " Увеличит все бонусы $sindar_faction$ на §G+20%§! (мультипликативно)."
+lthi_increase_bonus_halfelves_tt:0 "Увелит все бонусы $halfelves_faction$ на §G+20%§! (мультипликативно)."
+lthi_decrease_bonus_nandor_tt:0 "Уменьшит все бонусы $nandor_faction$ на §R-20%§! (мультипликативно)."
+lthi_decrease_bonus_noldor_tt:0 "Уменьшит все бонусы $noldor_faction$ на §R-20%§! (мультипликативно)."
+lthi_decrease_bonus_sindar_tt:0 "Уменьшит все бонусы $sindar_faction$ на §R-20%§! (мультипликативно)."
+lthi_decrease_bonus_halfelves_tt:0 "Уменьшит все бонусы $halfelves_faction$ на §R-20%§! (мультипликативно)."
+lthi_decrease_bonus_nandor_major_tt:0 "Уменьшит все бонусы  $nandor_faction$ на §R-90%§! (мультипликативно)."
+lthi_decrease_bonus_noldor_major_tt:0 "Уменьшит все бонусы $noldor_faction$ на §R-90%§! (мультипликативно)."
+lthi_decrease_bonus_sindar_major_tt:0 "Уменьшит все бонусы $sindar_faction$ на §R-90%§! (мультипликативно)."
+lthi_decrease_bonus_halfelves_major_tt:0 "Уменьшит все бонусы  $halfelves_faction$ на §R-90%§! (мультипликативно)."
+
+nandor_trait_tt:0 "Повышение этого лидера до §Yфельдмаршала§! добавляет §G+20§! $nandor_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $nandor_influence$."
+noldor_trait_tt:0 "Повышение этого лидера до §Yфельдмаршала§! добавляет §G+20§! $noldor_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $noldor_influence$."
+sindar_trait_tt:0 "Повышение этого лидера до §Yфельдмаршала§! добавляет §G+20§! $sindar_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $sindar_influence$."
+halfelves_trait_tt:0 "Повышение этого лидера до §Yфельдмаршала§! добавляет §G+20§! $halfelves_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $halfelves_influence$."
+orcs_trait_tt:0 "Повышение этого лидера до §Yфельдмаршала§! добавляет §G+20§! $orcs_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $orcs_influence$."
+nonelves_trait_tt:0 "Повышение этого лидера до §Yфельдмаршала§! добавляет §G+20§! $nonelves_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $nonelves_influence$."
+
+nandor_trait_tt:0 "Повышение этого лидера до §YField Marshal§! добавляет §G+20§! $nandor_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $nandor_influence$."
+noldor_trait_tt:0 "Повышение этого лидера до §YField Marshal§! добавляет §G+20§! $noldor_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $noldor_influence$."
+sindar_trait_tt:0 "Повышение этого лидера до §YField Marshal§! добавляет §G+20§! $sindar_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $sindar_influence$."
+halfelves_trait_tt:0 "Повышение этого лидера до §YField Marshal§! добавляет §G+20§! $halfelves_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $halfelves_influence$."
+orcs_trait_tt:0 "Повышение этого лидера до §YField Marshal§! добавляет §G+20§! $orcs_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $orcs_influence$."
+nonelves_trait_tt:0 "Повышение этого лидера до §YField Marshal§! добавляет §G+20§! $nonelves_influence$\nКаждый раз, когда этот лидер выигрывает битву, добавляется §G+1§! $nonelves_influence$."
+
+lth_add_sharedcause_mp_tt:0 "Добавляет человеческий ресурс за каждую другую §Yреволюционную§! страну, которая существует. Количество зависит от уровня поддержки коммунизма в стране, незначительные страны предоставляют меньше. Прирост ограничен §G+150 тысячами§!.\nЭффекты зависят от текущего состояния мира:"
+
+lth_liftthelawofisolation_tt:0 "Если [MOA.GetNameWithFlag] капитулирует перед [MOC.GetNameWithFlag], нам будет предоставлена возможность принять гномов в качестве §Yправительтсва в изгнании§!."
+
+penal_infantry_buff_tt:0 "§YШтрафной батальон§! Противопех. атака:  §G+15.0%§!\n§YШтрафной батальон§! Противотанк. атака:  §G+15.0%§!\n§YШтрафной батальон§! Защита:  §G+15.0%§!\n§YШтрафной батальон§! Прорыв:  §G+15.0%§!"
+
+great_schism_civil_war:0 "Раскол: перелом"
+great_schism_civil_war_desc:0 "Политическая напряженность в Лотлориэне нарастает. Если кризис не будет своевременно урегулирован, он может перерасти в полномасштабный конфликт."
+great_schism_civil_war_tt:0 "Начнется §Rгражданская война§! между §Yнолдор§! и §Y§!."
+great_schism_delay_civil_war:0 "Раскол: ослабление напряжённости"
+great_schism_delay_civil_war_desc:0 "Напряженность среди нашего народа беспрецедентна. Публичная демонстрация единства должна успокоить ситуацию."
+
+character_dies_tt:0 "§Y[THIS.GetName]§! §Rумирает§!."
+
+lth_lorekeepersguild_tt:0 "Откроет гильдию §YГильдия хранителей знаний§!."
+
+lth_next_advisor_cheaper_0:0 "Назначенные представители"
+lth_next_advisor_cheaper_1:0 "Назначенные представители"
+lth_next_advisor_cheaper_2:0 "Назначенные представители"
+lth_next_advisor_cheaper_3:0 "Назначенные представители"
+
+sindar_more_inflence_than:0 "$sindar_faction$ имеет более чем §Y$RIGHT$§! очков влияния. (В настоящее время §Y$LEFT$§!)."
+noldor_more_inflence_than:0 "$noldor_faction$ имеет более чем §Y$RIGHT$§! очков влияния. (В настоящее время §Y$LEFT$§!)."
+nandor_more_inflence_than:0 "$nandor_faction$ имеет более чем §Y$RIGHT$§! очков влияния. (В настоящее время §Y$LEFT$§!)."
+halfelves_more_inflence_than:0 "$halfelves_faction$ имеет более чем §Y$RIGHT$§! очков влияния. (В настоящее время §Y$LEFT$§!)"
+nonelves_more_inflence_than:0 "$nonelves_faction$ имеет более чем §Y$RIGHT$§! очков влияния. (В настоящее время §Y$LEFT$§!)."
+orcs_more_inflence_than:0 "$orcs$ имеет более чем §Y$RIGHT$§! очков влияния. (В настоящее время §Y$LEFT$§!)."
+
+lthi_has_25p_sindar_influence_tt:0 "$sindar_faction$ имеет не менее §Y25.0%§! очков влияния. (В настоящее время $lthi_sindar_influence_percent$)."
+lthi_has_50p_sindar_influence_tt:0 "$sindar_faction$ имеет не менее §Y50.0%§! очков влияния. (В настоящее время $lthi_sindar_influence_percent$)."
+lthi_has_80p_sindar_influence_tt:0 "$sindar_faction$ имеет не менее §Y80.0%§! очков влияния. (В настоящее время $lthi_sindar_influence_percent$)."
+lthi_has_25p_nandor_influence_tt:0 "$nandor_faction$ имеет не менее §Y25.0%§! очков влияния. (В настоящее время $lthi_nandor_influence_percent$)."
+lthi_has_50p_nandor_influence_tt:0 "$nandor_faction$ имеет не менее §Y50.0%§! очков влияния. (В настоящее время $lthi_nandor_influence_percent$)."
+lthi_has_80p_nandor_influence_tt:0 "$nandor_faction$ имеет не менее §Y80.0%§! очков влияния. (В настоящее время $lthi_nandor_influence_percent$)."
+lthi_has_25p_noldor_influence_tt:0 "$noldor_faction$ имеет не менее §Y25.0%§! очков влияния. (В настоящее время $lthi_noldor_influence_percent$)."
+lthi_has_50p_noldor_influence_tt:0 "$noldor_faction$ имеет не менее §Y50.0%§! очков влияния. (В настоящее время $lthi_noldor_influence_percent$)."
+lthi_has_80p_noldor_influence_tt:0 "$noldor_faction$ имеет не менее §Y80.0%§! очков влияния. (В настоящее время $lthi_noldor_influence_percent$)."
+lthi_has_25p_halfelves_influence_tt:0 "$halfelves_faction$ имеет не менее §Y25.0%§! очков влияния. (В настоящее время $lthi_halfelves_influence_percent$)."
+lthi_has_50p_halfelves_influence_tt:0 "$halfelves_faction$ имеет не менее §Y50.0%§! очков влияния. (В настоящее время $lthi_halfelves_influence_percent$)."
+lthi_has_80p_halfelves_influence_tt:0 "$halfelves_faction$ имеет не менее §Y80.0%§! очков влияния. (В настоящее время $lthi_halfelves_influence_percent$)."
+
+princess_of_the_noldor:0 "Принцесса нолдор"
+
+noldor_more_inflence_than_sindar_tt:0 "У $noldor_faction$ больше §Yочков влияния§! чем у $sindar_faction$ (в настоящее время: §G$LEFT$§! - §R$RIGHT$§!)"
+sindar_more_inflence_than_noldor_tt:0 "У $sindar_faction$ больше  §Yочков влияния§! чем у $noldor_faction$ (в настоящее время: §G$LEFT$§! - §R$RIGHT$§!)"
+sindar_and_noldor_influence_diff_under_tt:0 "Разница в §очков влияния§! между $noldor_faction$ и $sindar_faction$ меньше, чем §Y$RIGHT$§! (в настоящее время: §Y$LEFT$§!)."
+
+nostalgic_glory_seeker:0 "Ностальгирующий искатель славы"
+blinded_oracle:0 "Ослеплённый оракул"
+inspiring_motivator:0 "Вдохновляющий мотиватор"
+LTH_lead_by_example_tt:0 "\n(Эти модификаторы применяются только в том случае, если налоговая политика §YНизкие налоги§! или §YНет налогов§!)"
+
+lth_less_than_X_days_until_cw_tt:0 "Осталось менее §Y$RIGHT$§! дней до §Yперелома§! (в настоящее время §R$LEFT$§!)."
+
+lth_refused_subjugation:0 "Отказался от наших требований подчинения."
+
+oath_of_feanor_diplo_tt:0 "Лотлориэн принес клятву Феанора, которая запрещает им вступать во фракцию с воинственным Мордором."
+
+oath_of_feanor_effect_tt:0 "\n§RНам будет запрещено присоединяться к альянсу с воинственным Мордором§!"
+
+lth_ai_buff:0 ""
+
+fs_started:0 "Кольцо было найдено в Шире."
+
+lth_harmoinic_ascendandy_year_one_tt:0 "Политическая власть: §G+50§!\n$random_state_add_building_slot_and_civ_tt$\n$random_state_add_building_slot_and_mil_tt$"
+lth_harmoinic_ascendandy_year_two_tt:0 "Политическая власть: §G+100§!\nПовышение базовой стабильности: §G+10%§!\nПовышение базовой поддержки войны: §G+10%§!\n$random_state_add_building_slot_and_civ_x2_tt$\n$random_state_add_building_slot_and_mil_x2_tt$"
+lth_harmoinic_ascendandy_year_three_tt:0 "Политическая власть: §G+150§!\nПолучен §G1§! слот исследований\n$random_state_add_building_slot_and_civ_x3_tt$\n$random_state_add_building_slot_and_mil_x3_tt$"
+
+lth_harmonic_ascendancy_1_modifier_tt:0 "Немедленно:\n$lth_harmoinic_ascendandy_year_one_tt$\n\n$lth_after_one_year$\n$lth_harmoinic_ascendandy_year_two_tt$\n$lth_after_two_years$\n$lth_harmoinic_ascendandy_year_three_tt$"
+lth_harmonic_ascendancy_2_modifier_tt:0 "Немедленно:\n$lth_harmoinic_ascendandy_year_two_tt$\n$lth_after_one_year$\n$lth_harmoinic_ascendandy_year_three_tt$"
+lth_harmonic_ascendancy_3_modifier_tt:0 "Немедленно:\n$lth_harmoinic_ascendandy_year_three_tt$"
+
+leaving_for_valinor:0 "Исход в Валинор"
+leaving_for_valinor_desc:0 "Пришло время покинуть эти неспокойные земли."
+
+foreign_support:0 "Иностранная поддержка"
+
+support_mordor_enemy:0 "Поддержка [FROM.GetName]"
+support_mordor_enemy_desc:0 "[FROM.GetName] ведёт ожесточённую борьбу с силами Мордора. Мы должны помочь им всем, чем можем."
+
+lady_of_lorien:0 "Леди Лориэна"
+lord_of_lorien:0 "Владыка Лориэна"
+
+preemptivedepartures_nandor:0 "Отправить эльфов-нандор в Валинор"
+preemptivedepartures_noldor:0 "Отправить эльфов-нолдор в Валинор"
+preemptivedepartures_sindar:0 "Отправить эльфов-синдар в Валинор"
+preemptivedepartures_halfelves:0 "Отправить полуэльфов в Валинор"
+
+lth_unity_in_division_modifier:0 "Единство в дивизии"
+
+orc_rights_debate_declined:0 "Отказался от дебатов о правах орков"
+
+enact_migration_treaty:0 " Заключить миграционный договор с [FROM.GetName]."
+
+lth_spider_cooperation:0 "Пауки приняли нашу просьбу о сотрудничестве."
+lth_ent_cooperation:0 "Энты приняли нашу просьбу о сотрудничестве."
+
+LTH_beacon_of_hope:0 "Маяк надежды."
+LTH_beacon_of_hope_desc:0 "Лотлориэн позиционирует себя как защитник свободы и мира. Несгибаемый оплот, который будет бороться с тенью до последнего."
+
+fs_ring_seized_in_lth:0 "Кольцо было захвачено, когда Братство Кольца прибыло в Лотлориэн."
+
+dismantle_nazgul:0 "Избавление от назгулов."
+dismantle_nazgul_desc:0 "С Единым Кольцом мы держим за узду псов Саурона."
+dismantle_nazgul_MOR:0 "Кольценосец повержен"
+dismantle_nazgul_MOR_desc:0 "Эльфы Лотлориэна нашли способ использовать Единое Кольцо, чтобы уничтожить наших верных слуг!"
+
+LTH_prisoner_vivisections:0 "Вивисекция заключённых"
+LTH_prisoner_vivisections_desc:0 "Лотлориэн не сдерживается, когда речь заходит об экспериментах над пленниками, чтобы узнать слабые места врага."
+
+LTH_gift_of_servitude:0 "Дар служения."
+LTH_gift_of_servitude_desc:0 "Для слуг зла благосклонное, праведное и возвышенное главенство леди Галадриэль является привилегией."
+
+LTH_a_necessary_evil:0 "Необходимое зло"
+LTH_a_necessary_evil_desc:0 "Лотлориэн рассматривает орков как подчинённые инструменты с определённой задачей, а не как равных."
+
+LTH_a_necessary_evil_2:0 "Необходимое зло"
+LTH_a_necessary_evil_2_desc:0 "Лотлориэн рассматривает орков как подчинённые инструменты с определённой задачей, а не как равных"
+
+LTH_the_new_order:0 "Новый порядок"
+LTH_the_new_order_desc:0 "Некогда мирные и процветающие эльфы Золотого Леса ушли в прошлое. Легенда, которую рассказывают недоверчивым. Новый Лотлориэн - совсем другое место."
+
+lth_civil_war:0 "Синдар и нолдор ведут гражданскую войну"
+
+durins_bane_dead:0 "Проклятье Дурина мертво"
+
+raid_lothlorien:0 "Совершить набег на Лотлориэн"
+
+has_raided_lothlorien:0 "Совершил набег на Лотлориэн"

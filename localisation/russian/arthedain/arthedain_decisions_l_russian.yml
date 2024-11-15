@@ -1,0 +1,27 @@
+﻿l_russian:
+#Cooperative mechanic decisions
+ART_cooperative_path_mechanic:0 "Время для перемен"
+ART_cooperative_path_mechanic_desc:0 "Народу явно надоело, как управляется страна. Пришло время восстановить королевство Арнор и вернуть ему славу."
+ART_loyalist_rally:0 "Митинг лоялистов"
+ART_loyalist_rally_desc:0 "Мы должны выйти на улицу, чтобы публично высказать свое мнение о том, как должно править правительство."
+ART_loyalist_propaganda:0 "Пропаганда лоялистов"
+ART_loyalist_propaganda_desc:0 "Развешивание плакатов по всей стране, в каждом городе - звучит как хороший план."
+ART_convince_the_public:0 "Убедить народ"
+ART_convince_the_public_desc:0 "Время проводить митинги, чтобы убедить общественность восстановить кооперативное правительство."
+ART_remove_rangers_cap:0 "Отправить в отставку капитанов рейнджеров"
+ART_remove_rangers_cap_desc:0 "Пришло время новым людям возглавить нашу армию. Эти рейнджеры не разделяют наших идей."
+
+#Belligerent/Revolutionary mechanic decisions
+ART_bel_rev_path_mechanic:0 "Времен для перемен"
+ART_remove_rangers_alternate:0 "Отправить в отставку капитанов рейнджеров"
+ART_remove_rangers_alternate_desc:0 "Пришло время новым людям возглавить нашу армию. Эти рейнджеры не разделяют наших идей."
+ART_violence_rally:0 "Жестокий митинг"
+ART_violence_rally_desc:0 "Мы должны выйти на улицу, чтобы показать, насколько серьезно мы относимся к смене правительства, которой требуем!"
+ART_belligerent_propaganda:0 "Воинственная пропаганда"
+ART_belligerent_propaganda_desc:0 "Развешивание плакатов по всей стране, в каждом городе - звучит как хороший план."
+ART_revolutionary_propaganda:0 "Революционная пропаганда"
+ART_revolutionary_propaganda_desc:0 "Развешивание плакатов по всей стране, в каждом городе - звучит как хороший план."
+ART_peasants_gathering:0 "Собрания крестьяе"
+ART_peasants_gathering_desc:0 "Мы, крестьяне, должны объединиться и быть сильными."
+ART_belligerent_support_request:0 "Запросить поддержку"
+ART_belligerent_support_request_desc:0 "Мы должны обратиться за помощью в создании нашего нового воинственного правительства. Если страна заявит о поддержке нашей цели, это нам очень поможет."

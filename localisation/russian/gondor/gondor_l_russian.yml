@@ -1,0 +1,50 @@
+﻿l_russian:
+#Ideas
+GON_army_of_the_death:0 "Армия мертвых"
+GON_strike_before_the_enemy_0:0 "Превентивный удар"
+GON_strike_before_the_enemy_1:0 "Превентивный удар"
+GON_bunker_focus:0 "Сосредоточение на укреплениях"
+GON_no_step_back_idea:0 "Ни шагу назад"
+GON_preprare_for_the_worst:0 "Приготовиться к худшему"
+GON_volunteers_against_evil:0 "Добровольцы против всего Злого"
+GON_isildur_legacy:0 "Наследие Исильдура"
+GON_idea_restructure_the_army:0 "Крупная реорганизация армии"
+GON_popular_support_campaign:0 "Популярная компания поддержки"
+GON_merit_based_advancement:0 "Меритократия"
+faramir_eowyn_marriage:0 "Свадьба Фарамира и Эовин"
+GON_kingdom_of_gondor:0 "Королевство Гондор"
+GON_weary_armed_forces:0 "Уставшие вооруженные силы"
+GON_eyes_of_the_white_tower:0 "Глаза Белой Башни"
+
+GON_kingdom_without_king_0:0 "Королевство без короля"
+GON_spies_of_gondor_0:0 "Глаза Белой Башни"
+GON_spies_of_gondor_sneaky_peaky:0 "Глаза Белой Башни"
+GON_spies_of_gondor_know_it_all:0 "Глаза Белой Башни"
+
+GON_denethor_0:0 "Параноя Денетора"
+GON_denethor_1:0 "Параноя Денетора"
+GON_denethor_2:0 "Параноя Денетора"
+GON_denethor_3:0 "Параноя Денетора"
+GON_denethor_4:0 "Параноя Денетора"
+
+GON_faramir_legacy:0 "Наследие Фарамира"
+GON_faramir_legacy_desc:0 "Сын, которого никогда не забудут"
+GON_defeatist_0:0 "Пораженчество"
+GON_defeatist_1:0 "Пораженчество"
+GON_defeatist_2:0 "Пораженчество"
+
+GON_idea_spread_the_revolution:0 "Мятежный дух"
+
+GON_denethor_loyalists:0 "Денеторские лоялисты"
+GON_rally_of_the_people:0 "Сплотить народ"
+GON_defender_of_middle_earth:0 "Защитник Средиземья"
+
+#Flags
+GON_called_on_dead_men_of_dunharrow:0 "Призваны мертвецы из Дунхарроу"
+GON_men_of_dunharrow_fullfiled_their_oath:0 "Выполнена клятва, данная людям из Дунхарроу"
+
+###Tooltips
+GON_tooltip_unlocks_defense_advisor:0 "§YЭто откроет Маблунга в роле главнокомандующего§!"
+GON_tooltip_unlocks_prince_of_terror_advisor:0 "Открывает §YПринца Ужаса§! в качестве советника."
+GON_purge_the_aristocracy_tt:0 "Откроет §YОрден Белой Розы§! в качестве гильдии."
+GON_rally_the_exiled_nobility_tt:0 "На Толфаласе появятся несколько дивизий §Yлоялистов стюардства§!."

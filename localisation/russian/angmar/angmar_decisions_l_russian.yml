@@ -1,0 +1,30 @@
+﻿l_russian:
+ANG_request_investment:0 "Иностранные инвестиции"
+ANG_request_investment_desc:0 ""
+ANG_request_investment_ART:0 "Попросить инвестиции у Артедайна"
+ANG_request_investment_RHD:0 "Попросить инвестиции у Рудаура"
+ANG_request_investment_VAL:0 "Попросить инвестиции у Андуина"
+
+#Cooperative balance of power
+power_balance_ang:0 "Баланс сил"
+power_balanced:0 "Баланс сил"
+goverment:0 "Правительство"
+goverment_high:0 "Правительство высоко"
+goverment_middle:0 "Правительство средне"
+goverment_low:0 "Правительство низко"
+army:0 "Армия"
+army_high:0 "Армия высоко"
+army_middle:0 "Армия средне"
+army_low:0 "Армия низко"
+
+#decisions
+army_parade:0 "Военный парад"
+army_parade_desc:0 "Как гордые республиканцы, мы должны показать Средиземью, что мы - сила, с которой нужно считаться"
+army_propaganda:0 "Военная пропаганда"
+army_propaganda_desc:0 "Если люди сами не убедятся, мы им немного поможем."
+invest_in_militair_industry:0 "Инвестировать в военную промышленность"
+invest_in_militair_industry_desc:0 ""
+limit_army_influence:0 "Ограничить военное влияние"
+limit_army_influence_desc:0 "Страна с сильным влиянием армии называется диктатурой. Мы - республика!"
+invest_in_the_industry:0 "Инвестировать в гражданскую промышленность"
+invest_in_the_industry_desc:0 ""

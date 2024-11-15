@@ -1,0 +1,86 @@
+﻿l_russian:
+#################################
+#General
+#################################
+learn_strategies:0 "Изучать Стратегии"
+learn_strategies_desc:0 ""
+invest_in_military_industry:0 "Инвестировать в Военную Промышленность"
+invest_in_military_industry_desc:0 ""
+defense_against_Gondor:0 "Защита от Гондора"
+defense_against_Gondor_desc:0 ""
+
+HAR_invest_in_industry:0 "Инвестировать в Промышленность"
+HAR_invest_in_industry_desc:0 ""
+HAR_build_industry:0 "Расширить Промышленность"
+HAR_build_industry_desc:0 ""
+HAR_state_invest_in_industry:0 "Инвестиции в Промышленность"
+HAR_state_invest_in_industry_desc:0 ""
+
+HAR_expand_military_production:0 "Увеличить Производство"
+HAR_expand_military_production_desc:0 ""
+HAR_state_invest_in_military:0 "Военные Инвестиции"
+HAR_state_invest_in_military_desc:0 ""
+
+HAR_infrastructure_east:0 "Восточная Инфраструктура"
+HAR_infrastructure_east_desc:0 ""
+HAR_railway_system_east:0 "Восточная Железнодорожная Система"
+HAR_railway_system_east_desc:0 ""
+HAR_mobile_supply:0 "Мобильная Система Снабжения"
+HAR_mobile_supply_desc:0 ""
+
+HAR_learn_gondor_tactics:0 "Научиться у Гондора"
+HAR_learn_gondor_tactics_desc:0 ""
+
+#### Navy path
+navy_focus:0 "Фокус на Флоте"
+navy_focus_desc:0 ""
+HAR_submarine_effort:0 "Усилия на Подводные Лодки"
+HAR_submarine_effort_desc:0 ""
+HAR_battleship_effort:0 "Усилия на Военные Корабли"
+HAR_battleship_effort_desc:0 ""
+
+#################################
+#belligerente
+#################################
+follow_the_dark_lord:0 "Следовать за Темным Лордом"
+follow_the_dark_lord_desc:0 ""
+spread_propaganda:0 "Распространять Пропаганду"
+spread_propaganda_desc:0 ""
+honor_morgoth_hai:0 "Почитать Моргота"
+honor_morgoth_hai_desc:0 "Нам не следует забывать, кто привел нас сюда. Наш Темный Лорд не забыт и мы вновь сразимся за него."
+power_to_the_mouth_of_sauron:0 "Дать Голосу Саурона Силу"
+power_to_the_mouth_of_sauron_desc:0 ""
+join_the_dark_pact:0 "Вступить в Темный Пакт"
+join_the_dark_pact_desc:0 ""
+join_research_group:0 "Вступить в Исследовательскую Группу"
+join_research_group_desc:0 ""
+
+HAR_war_propaganda_gondor:0 "Военная Пропаганда"
+HAR_war_propaganda_gondor_desc:0 ""
+demand_south_ithilien:0 "Потребовать Южный Итилиэн"
+demand_south_ithilien_desc:0 ""
+finish_gondor:0 "Закончить Начатое"
+finish_gondor_desc:0 ""
+
+go_solo:0 "Быть Сами по Себе"
+go_solo_desc:0 ""
+defend_against_mordor:0 "Защита от Мордора"
+defend_against_mordor_desc:0 ""
+prepare_for_war_against_mordor:0 "Подготовка к Войне"
+prepare_for_war_against_mordor_desc:0 ""
+HAR_ready_the_army:0 "Подготовить Армию"
+HAR_ready_the_army_desc:0 ""
+mordor_has_become_weak:0 "Отбросить Слабость"
+mordor_has_become_weak_desc:0 ""
+
+HAR_look_to_the_east:0 "Посмотреть на Восток"
+HAR_look_to_the_east_desc:0 ""
+HAR_demand_submission_east:0 "Потребовать Подчинения"
+HAR_demand_submission_east_desc:0 ""
+#################################
+#Communisme
+#################################
+power_to_the_people:0 "Власть Народу"
+power_to_the_people_desc:0 "РАБОТА В ПРОЦЕССЕ"
+spread_support:0 "Распространить Поддержку"
+spread_support_desc:0 ""

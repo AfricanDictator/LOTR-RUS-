@@ -1,0 +1,73 @@
+﻿l_russian:
+
+#################################
+#Navy
+#################################
+ generic_expanded_dockyards:0 "Расширенные Верфи"
+ generic_expanded_dockyards_desc:0 "Еще больше расширить усилия на строение кораблей."
+ generic_naval_base_effort:0 "Усилия на военно-морские базы"
+ generic_naval_base_effort_desc:0 "Чтобы защитить наши свежие военно-морские базы, обязательно построить минимальные береговые укрепления."
+ fishery_platforms:0 "Рыболовные Платформы"
+ fishery_platforms_desc:0 "Наше государство производит слишком мало еды. Давайте используем ближайшие моря, чтобы исправить это."
+#################################
+#Construction
+#################################
+ generic_construction_effort_4:0 "Развитие строительства IV"
+ generic_construction_effort_4_desc:0 "Больше гражданских фабрик. По одной в каждой нам принадлежащей провинции!"
+ generic_production_effort_4:0 "Развитие вооружений IV"
+ generic_production_effort_4:0 "Больше военных заводов. По одному в каждой нам принадлежащей провинции!" 
+ generic_resource_extraction:0 "Добыча Ресурсов"
+ generic_resource_extraction_desc:0 "Наша увеличенная промышленность дала нам возможность добывать больше ресурсов в нашей стране." 
+ generic_the_earth_has_one_weakness:0 "Копать Глубже"
+ generic_the_earth_has_one_weakness_desc:0 "Только получив все ресурсы на нашей територии, мы сможем отдохнуть."
+#################################
+#belligerente
+#################################
+generic_draw_closer_to_mordor:0 "Приблизиться к Мордору"
+generic_draw_closer_to_mordor_desc:0 "Улучшить отношения с Мордором."
+generic_unite_with_mordor:0 "Объединиться с Сауроном"
+generic_unite_with_mordor_desc:0 "Вступить в Темный Пакт и построить армию, достойную Мордора."
+generic_honor_morgoth:0 "Почитать Моргота"
+generic_honor_morgoth_desc:0 "Наш Темный Лорд не забыт и мы сразимся за него вновь."
+
+#################################
+#Democratic
+#################################
+generic_unite_with_gondor:0 "Объединиться с Гондором"
+generic_unite_with_gondor_desc:0 "Быть с людьми Запада."
+generic_draw_closer_to_gondor:0 "Приблизиться к Гондору"
+generic_draw_closer_to_gondor_desc:0 "Улучшить отношения с Гондором."
+generic_gondor_research_sharing:0 "Гондорское Исследовательское Соглашение"
+generic_gondor_research_sharing_desc:0 "Нам стоит работать вместе, чтобы увеличить нашу мудрость и ускорить наши исследования."
+
+################################
+# Chosen path
+################################.
+generic_pick_a_path:0 "Выбрать свою Судьбу"
+generic_pick_a_path_desc:0 "Вступишь ли ты в альянс, или же останешься нейтральным?"
+
+generic_unite_with_erebor:0 "Объединиться с Эребором"
+generic_unite_with_erebor_desc:0 "Стоять вместе с Гномами."
+generic_draw_closer_to_erebor:0 "Приблизиться к Эребору"
+generic_draw_closer_to_erebor_desc:0 "Улучшить отношения с Эребором."
+generic_learn_from_the_dwarves:0 "Научиться у Гномов"
+generic_learn_from_the_dwarves_desc:0 ""
+
+generic_unaligned_focus:0 "Нейтральная Внешняя Политика"
+generic_unaligned_focus_desc:0 ""
+
+#################################
+#Custom Effect Tooltips
+#################################
+force_excavation_tt:0 "Немедленно будет потеряно §R2,000§! людского ресурса и §R100§! снаряжение задействованного в проекте. После выполнения будут потеряны допольнительные §R500§! людского ресурса, как потери."
+demobilize_reserve_army_construction_tt:0 "Immediately deploy §R2,000§! manpower to the project. Returns §G2,000§! manpower to the reserve upon completion."
+stacked_resource_warning_tt:0 "\n§YЗаметка§!: \n Фактический объем производства уменьшается, если §Yвести раскопки§! и §Yглубоко копать§! в одном и той же провинции (если вызвано тем, что под контролем только одна провинция или по другим причинам)."
+ mobilize_army_construction_tt:0 "Минимум §Y10,000§! людского ресурса развернуты в поле."
+reserve_army_construction_tt:0 "Больше §Y2,000§! людского ресурса в резервах."
+generic_naval_base_effort_tt:0 "Добавить §Y3 Морскую Базу§! на существующие локации."
+generic_naval_base_effort_tt2:0 "Построить §Y2 береговых укрепления§! по побережью. §YМорские Базы§! будут укреплены §Y2 береговыми укреплениями§!."
+lotr_oil_platforms_tt:0 "Добавляет §Yслучайное количество§!  производимой нефти."
+#################################
+#Other
+#################################
+lotr_oil_platforms_trigger_tt:0 "В этом же регионе не рыбачит никто из соседних государств."

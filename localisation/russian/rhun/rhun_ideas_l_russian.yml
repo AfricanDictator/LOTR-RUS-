@@ -1,0 +1,39 @@
+﻿l_russian:
+##General
+RHU_state_investment:0 "Государственные Инвестиции"
+RHU_state_investment_desc:0 ""
+
+##belligerente
+RHU_mission_of_the_blue_wizards:0 "Задание Синих Волшебников"
+RHU_mission_of_the_blue_wizards_desc:0 "На переднем крае дипломатической войны против влияния Саурона стоят волшебники Алатар и Палландо."
+RHU_mission_of_the_blue_wizards_1:0 "Задание Синих Волшебников"
+RHU_mission_of_the_blue_wizards_1_desc:0 "На переднем крае дипломатической войны против влияния Саурона стоят волшебники Алатар и Палландо."
+
+RHU_alone_we_will_fight:0 "Одни мы будем бороться"
+RHU_alone_we_will_fight_desc:0 ""
+
+RHU_dark_influences:0 "Темные Влияния"
+RHU_dark_influences_desc:0 "Рун влияет на нашу политику и продвигает свои идеи о Средиземье и нашей роли в нем."
+
+##Democratic 
+RHU_change_in_politics_1:0 "Изменение в Политике"
+RHU_change_in_politics_1_desc:0 ""
+RHU_change_in_politics_2:0 "Изменение в Политике"
+RHU_change_in_politics_2_desc:0 ""
+RHU_change_in_politics_3:0 "Изменение в Политике"
+RHU_change_in_politics_3_desc:0 ""
+RHU_change_in_politics_4:0 "Изменение в Политике"
+RHU_change_in_politics_4_desc:0 ""
+
+RHU_defend_our_lands:0 "Защитить нашу Родину"
+RHU_defend_our_lands_desc:0 ""
+RHU_great_evil_defeated:0 "Великое Зло Побеждено"
+RHU_great_evil_defeated_desc:0 ""
+
+RHU_attack_is_best_defense:0 "Атака-Лучшая Защита"
+RHU_attack_is_best_defense_desc:0 ""
+RHU_militair_supply_system:0 "Система Военного Снабжения"
+RHU_militair_supply_system_desc:0 ""
+
+RHU_hidden_supplies:0 "Скрытое Снабжение"
+RHU_hidden_supplies_desc:0 ""

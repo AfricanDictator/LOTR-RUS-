@@ -1,0 +1,210 @@
+﻿l_russian:
+#################################
+#General
+#################################
+RHU_develop_the_industry:0 "Развитие Промышленности"
+RHU_develop_the_industry_desc:0 ""
+
+RHU_develop_the_south:0 "Развить Юг"
+RHU_develop_the_south_desc:0 ""
+RHU_develop_military_south:0 "Развить Армию на Юге"
+RHU_develop_military_south_desc:0 ""
+
+RHU_develop_the_east:0 "Развить Восток"
+RHU_develop_the_east_desc:0 ""
+RHU_develop_military_east:0 "Развить Армию на Востоке"
+RHU_develop_military_east_desc:0 ""
+RHU_infra_south_east:0 "Инфраструктура на Юго-Западе"
+RHU_infra_south_east_desc:0 ""
+
+RHU_develop_the_north:0 "Развить Север"
+RHU_develop_the_north_desc:0 ""
+RHU_develop_military_north:0 "Развить Армию на Севере"
+RHU_develop_military_north_desc:0 ""
+RHU_infra_north:0 "Инфраструктура на Севере"
+RHU_infra_north_desc:0 ""
+
+RHU_research_team:0 "Исследовательская Команда"
+RHU_research_team_desc:0 ""
+#Army
+RHU_army_focus:0 "Сосредоточение на Армии"
+RHU_army_focus_desc:0 ""
+
+RHU_ballista:0 "Сосредоточение на Баллистах"
+RHU_ballista_desc:0 ""
+RHU_archery:0 "Сосредоточение на Луках"
+RHU_archery_desc:0 ""
+RHU_crossbow:0 "Сосредоточение на Арбалетах"
+RHU_crossbow_desc:0 ""
+RHU_army_calvery:0 "Сосредоточение на Кавалерии"
+RHU_army_calvery_desc:0 ""
+RHU_better_calvery:0 "Улучшенная Кавалерия"
+RHU_better_calvery_desc:0 ""
+RHU_army_of_the_east:0 "Армия Востока"
+RHU_army_of_the_east_desc:0 ""
+
+#################################
+#belligerente
+#################################
+RHU_follow_the_dark_lord:0 "Следовать за Темным Лордом"
+RHU_follow_the_dark_lord_desc:0 ""
+RHU_kill_the_blue_wizards:0 "Убить Синих Волшебников"
+RHU_kill_the_blue_wizards_desc:0 ""
+power_to_khamul:0 "Власть Кхамулу"
+power_to_khamul_desc:0 ""
+
+## Erebor path
+RHU_our_search_for_iron:0 "Поиски Железа"
+RHU_our_search_for_iron_desc:0 "Нам стоит копать глубже, чтобы найти железо"
+RHU_look_to_our_neighbours:0 "Посмотреть на наших Соседей"
+RHU_look_to_our_neighbours_desc:0 "Гномы в Эреборе нашли много железа. Нам стоит спросить их, не могли бы они поделиться."
+RHU_lay_claim_on_the_iron:0 "Претензии на Железо"
+RHU_lay_claim_on_the_iron_desc:0 "Мы любезно попросили, но они все равно нам ничего не дали. Так давайте в этот раз потребуем землю. Если они откажут, то пусть будет война."
+
+## Dorwinion
+RHU_take_dorwinion:0 "Дорвинион"
+RHU_take_dorwinion_desc:0 ""
+RHU_build_vineyards:0 "Построить больше Виноградников"
+RHU_build_vineyards_desc:0 ""
+RHU_expand_wine_trade:0 "Расширить Торговлю Вином"
+RHU_expand_wine_trade_desc:0 ""
+
+##Go Solo
+RHU_go_solo:0 "В одиночку мы сильнее всего"
+RHU_go_solo_desc:0 ""
+RHU_declare_sauron_weak:0 "Объявить Саурона Слабым"
+RHU_declare_sauron_weak_desc:0 ""
+RHU_demand_harad_submission:0 "Потребовать Подчинение Харада"
+RHU_demand_harad_submission_desc:0 ""
+RHU_the_new_dark_lord:0 "Новый Темный Лорд"
+RHU_the_new_dark_lord_desc:0 "Саурон стал слабым и Моргот не справился с задачей. Время показать им, как захватить Средиземье."
+RHU_take_middle_earth:0 "Уничтожить Средиземье"
+RHU_take_middle_earth_desc:0 ""
+
+RHU_take_swamp:0 "Экспансия на Запад"
+RHU_take_swamp_desc:0 ""
+RHU_swamp_invest_in_railways:0 "Построить Железнодорожную Систему"
+RHU_swamp_invest_in_railways_desc:0 ""
+RHU_swamp_invest_in_infra:0 "Проложить Дороги"
+RHU_swamp_invest_in_infra_desc:0 ""
+RHU_swamp_invest_in_factory:0 "Инвестировать в Промышленность"
+RHU_swamp_invest_in_factory_desc:0 ""
+
+RHU_increase_supply:0 "Увеличить Инфраструктуру Снабжения"
+RHU_increase_supply_desc:0 ""
+RHU_invaded_mordor:0 "Вторгнуться в Мордор"
+RHU_invaded_mordor_desc:0 ""
+
+##Create faction
+RHU_create_faction:0 "Создать Собственный Союз"
+RHU_create_faction_desc:0 ""
+RHU_ally_dorwinion:0 "Пригласить Дорвинион"
+RHU_ally_dorwinion_desc:0 ""
+RHU_ally_harad:0 "Пригласить Харад"
+RHU_ally_harad_desc:0 ""
+
+##Join the dark pact
+RHU_join_the_dark_pact:0 "Вступить в Темный Пакт"
+RHU_join_the_dark_pact_desc:0 ""
+RHU_join_research_group:0 "Вступить в Группу по Исследованиям"
+RHU_join_research_group_desc:0 ""
+RHU_ask_mordor_for_trolls:0 "Попросить о Помощи"
+RHU_ask_mordor_for_trolls_desc:0 "Мы видели, на что способны тролли. Давайте попросим несколько у Мордора."
+
+RHU_honor_morgoth:0 "Почитать Моргота"
+RHU_honor_morgoth_desc:0 ""
+
+#################################
+#Democratic
+#################################
+RHU_follow_the_wizards:0 "Следовать за Синими Волшебниками"
+RHU_follow_the_wizards_desc:0 ""
+RHU_spread_the_word:0 "Распространить Информацию"
+RHU_spread_the_word_desc:0 ""
+RHU_dale_support:0 "Попросить Поддержки Дэйла"
+RHU_dale_support_desc:0 ""
+RHU_dorwinion_support:0 "Попросить Поддержки у Дорвиниона"
+RHU_dorwinion_support_desc:0 ""
+RHU_dorwinion_support_civil_war:0 "Попросить поддержки у Дорвиниона в Гражданской Войне"
+RHU_dorwinion_support_civil_war_desc:0 ""
+RHU_civil_war:0 "Больше не рабы Зла!"
+RHU_civil_war_desc:0 ""
+RHU_see_the_light:0 "Реорганизовать Страну"
+RHU_see_the_light_desc:0 ""
+
+RHU_rebuild_the_country:0 "Время Восстановаления"
+RHU_rebuild_the_country_desc:0 ""
+RHU_invite_gandalf:0 "Пригласить Гендальфа"
+RHU_invite_gandalf_desc:0 ""
+RHU_learn_from_the_wizards:0 "Научиться у Волшебников"
+RHU_learn_from_the_wizards_desc:0 ""
+
+### Defend freedom
+RHU_defend_freedom:0 "Защищать Свободу"
+RHU_defend_freedom_desc:0 ""
+RHU_guarantee_the_east:0 "Гарантировать Восток"
+RHU_guarantee_the_east_desc:0 ""
+RHU_guarantee_the_north:0 "Гарантировать Север"
+RHU_guarantee_the_north_desc:0 ""
+RHU_guarantee_the_west:0 "Гарантировать Запад"
+RHU_guarantee_the_west_desc:0 ""
+
+RHU_attack_is_the_best_defense:0 "Вооружить нашу Армию"
+RHU_attack_is_the_best_defense_desc:0 ""
+RHU_add_research_slot:0 "Инвестировать в Исследования"
+RHU_add_research_slot_desc:0 ""
+
+RHU_invest_in_railways:0 "Инвестировать в Железные Дороги"
+RHU_invest_in_railways_desc:0 ""
+RHU_militair_infra:0 "Система Военного Снабжения"
+RHU_militair_infra_desc:0 ""
+RHU_attack_mordor:0 "Атаковать Угрозу"
+RHU_attack_mordor_desc:0 ""
+RHU_defeat_belligerente:0 "Защитить Свободу"
+RHU_defeat_belligerente_desc:0 ""
+
+#### Defensive pact
+RHU_create_defensive_pact:0 "Защитный Пакт"
+RHU_create_defensive_pact_desc:0 "Мы должны готовиться к растущей угрозе Мордора. Однако одним нам не справиться-нам нужны союзники."
+RHU_learn_from_our_allies:0 "Научиться у Союзников"
+RHU_learn_from_our_allies_desc:0 ""
+RHU_invite_dorwinion:0 "Пригласить Дорвинион"
+RHU_invite_dorwinion_desc:0 ""
+RHU_invite_erebor:0 "Пригласить Эребор"
+RHU_invite_erebor_desc:0 ""
+RHU_invite_rohan:0 "Пригласить Рохан"
+RHU_invite_rohan_desc:0 ""
+RHU_invite_dale:0 "Пригласить Дэйл"
+RHU_invite_dale_desc:0 ""
+
+RHU_together_we_stand_strong:0 "Вместе мы Сильны"
+RHU_together_we_stand_strong_desc:0 ""
+
+RHU_invite_to_all:0 "Пригласить Всех"
+RHU_invite_to_all_desc:0 ""
+RHU_preempty_the_threat:0 "Пресечь угрозу"
+RHU_preempty_the_threat_desc:0 ""
+RHU_mordor_defeated:0 "V значит Victory"
+RHU_mordor_defeated_desc:0 ""
+
+RHU_strengthen_the_borders_south_rhun:0 "Усилить Южные Границы Руна"
+RHU_strengthen_the_borders_south_rhun_desc:0 ""
+RHU_strengthen_the_borders_east_gathod:0 "Усилить Границы на Дальнем Востоку"
+RHU_strengthen_the_borders_east_gathod_desc:0 ""
+RHU_strengthen_the_borders_lithlad_rhun:0 "Усилить Границы в Литладе Руна"
+RHU_strengthen_the_borders_lithlad_rhun_desc:0 ""
+
+#################################
+#Custom Effect Tooltips
+#################################
+RHU_unlock_support_decisions:0 "§YОткрывает решения, позволяющие распространять поддержку по стране.§!"
+RHU_unlock_kill_blue_wizards_decisions:0 "§YОткрывает решения на убийство Синих Волшебников.§!"
+RHU_unlock_belligerente_support_decisions:0 "§YОткрывает решения на распространение поддержки в соседних странах.§!"
+RHU_make_contact_with_belligerent_tooltip:0 "§YЕсли они согласятся на встречу, то они присоединятся к нам, если мы их пригласим.§!"
+### Civil war
+RHU_tooltip_steal_weapons:0 "§OЭто оружие будет добавлено вновь в начале Гражданской Войны§!"
+RHU_tooltip_hide_supplies:0 "§OЭто добавит национальный дух в начале гражданской войны§!"
+RHU_rally_state:0 "§OЭто обеспечит то, что данная провинция будет нашей в начале гражданской войны.§!"
+RHU_rally_troops:0 "§OЭто даст нам дополнительные дивизии в начале гражданской войны.§!"
+RHU_requirement_start_civil_war:0 "§YПривлечь на нашу сторону 4 Провинции§!"
+RHU_warning_start_civil_war:0 "§RПосле привлечения 4-х провинций на нашу сторону, есть шанс начала гражданской войны, после каждой последующей провинции.§!"

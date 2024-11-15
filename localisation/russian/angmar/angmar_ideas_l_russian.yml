@@ -1,0 +1,31 @@
+﻿l_russian:
+### Cooperative
+ANG_trade_agremeent:0 "Гондорский торговый договор"
+ANG_army_of_our_nation:0 "Армия республики"
+ANG_human_lead_industry:0 "Промышленность, управляесая людьми"
+
+### General
+ANG_shell_of_a_formor_power:0 "Тень прошлого"
+ANG_shell_of_a_formor_power_desc:0 "Было время, когда Королевство Ангмар правило большой частью северных земель. Но сегодня наша слава запачкана. Запятнанные унижением, которому мы подверглись, когда наши лидеры бежали, наши армии потерпели поражение, а наша территория была изуродована. Уйдет много времени, чтобы вымыть эти пятна."
+ANG_legacy_of_the_witch_king_0:0 "Наследие Короля-Чародея"
+ANG_legacy_of_the_witch_king_1:0 "Наследие Короля-Чародея"
+
+
+### Belligerent
+ANG_civil_unrest:0 "Гражданские беспорядки"
+ANG_civil_unrest_1:0 "Гражданские беспорядки"
+ANG_civil_unrest_2:0 "Гражданские беспорядки"
+ANG_legacy_of_danthild:0 "Наследие Дантильда"
+ANG_strengthen_bonds:0 "Укрепить связи"
+ANG_investment:0 "Иностранные инвестиции"
+generic_investment_in_angmar:0 "Иностранные инвестиции"
+ANG_enslave_the_uruk_hai:0 "Поработить Урук-Хаев"
+ANG_orthanc_payment:0 "Гондорская плата за Ортанк"
+ANG_orc_lead_industry:0 "Промышленность, управляемая орками"
+ANG_witch_king_cult:0 "Культ Короля-Чародея"
+
+### Hidden part
+ANG_ANG_the_necromancer:0 "Некромант"
+ANG_ANG_the_necromancer_1:0 "Некромант"
+ANG_ANG_the_necromancer_2:0 "Некромант"
+ANG_desotroy_the_opposition:0 "Уничтожить оппозицию"

@@ -1,0 +1,34 @@
+﻿l_russian:
+
+
+#################################
+#belligerente
+#################################
+RHU_kill_the_blue_wizards_cat:0 "Разобраться с Синими Волшебниками"
+RHU_kill_alatar:0 "Убить Алатара"
+RHU_kill_alatar_desc:0 "Синие Волшебники-Неприятность. Их задача является противоположностью наших интересов! Нам нужно убрать это препятствие на нашем пути к величию!"
+RHU_kill_pallando:0 "Убить Палландо"
+RHU_kill_pallando_desc:0 "Синие Волшебники-Неприятность. Их задача является противоположностью наших интересов! Нам нужно убрать это препятствие на нашем пути к величию!"
+
+RHU_influencing_neighbours:0 "Влияние на Соседей"
+RHU_influencing_neighbours_desc:0 "Одним нам не справиться, но вместе мы сильны. Всем восточным государствам стоит объединиться и сражаться вместе. Единственный способ добиться этого - привлечь всех на одну сторону."
+RHU_influencing_dorwinion:0 "Влиять на Дорвинион"
+RHU_influencing_dorwinion_desc:0 ""
+RHU_influencing_harad:0 "Влиять на Харад"
+RHU_influencing_harad_desc:0 ""
+RHU_propose_construction_embassy:0 "Предложить строительство посольства"
+RHU_propose_construction_embassy_desc:0 "Нам стоит укрепить связи между нашими государствами."
+RHU_meet_insecret_with_harad:0 "Секретно встретитсья с Харадом"
+RHU_meet_insecret_with_harad_desc:0 ""
+#################################
+#Democratic
+#################################
+RHU_spread_support:0 "Увеличить Поддержку в Руне"
+RHU_steal_weapons:0 "Украсть из Барраков"
+RHU_hide_supplies:0 "Создать скрытые склады снабжения"
+RHU_hide_supplies_desc:0 "В случае гражданской войны мы должны быть готовы. Спрятав наше снаряжение по стране, мы сможем сражаться, даже если не будет дорог."
+RHU_send_support:0 "Отправить Волшебника в [From.GetName]"
+RHU_rally_troops_lithlad:0 "Сплачить население в [From.GetName]"
+RHU_rally_troops_agasha:0 "Сплачить население в [From.GetName]"
+RHU_rally_troops_far_eastern:0 "Сплачить население в [From.GetName]"
+RHU_rally_troops_north_rhun:0 "Сплачить население в [From.GetName]"

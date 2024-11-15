@@ -1,0 +1,66 @@
+﻿l_russian:
+
+
+#################################
+#belligerente
+#################################
+MOR_build_railwork:0 "Построить Новые Дороги"
+Build_railroad_1:0 "Построить дорогу на юг"
+Build_railroad_1_desc:0 "Чтобы снабжать нашу войну с Гондором, мы должны подготовиться"
+Build_railroad_2:0 "Построить дорогу на север"
+Build_railroad_2_desc:0 "Чтобы снабжать нашу войну с Гондором, мы должны подготовиться"
+Build_supply_hub_1:0 "Узел снабжения на юге"
+Build_supply_hub_1_desc:0 "Чтобы снабжать нашу войну с Эребором, мы должны подготовиться"
+Build_supply_hub_2:0 "Узел снабжения на севере"
+Build_supply_hub_2_desc:0 "Чтобы снабжать нашу войну с Эребором, мы должны подготовиться"
+Build_infrastructure:0 "Построить инфраструктуру"
+Build_infrastructure_desc:0 ""
+
+MOR_dol_guldur:0 "Дол Гулдур"
+MOR_sent_troops:0 "Отправить солдат в Дол Гулдур"
+MOR_sent_troops_desc:0 ""
+MOR_sent_equipment:0 "Отправить снаряжение в Дол Гулдур"
+MOR_sent_equipment_desc:0 ""
+MOR_sent_one_of_the_nine:0 "Отправить Адунафеля в Дол Гулдур"
+MOR_sent_one_of_the_nine_desc:0 "Нам стоит отправить сильного генерала командовать армиями Дол Гулдура."
+
+MOR_influence_revolutionarye:0 "Распространять Влияние"
+MOR_influence_revolutionarye_desc:0 "Пока мы освобожились от тиранов, остальные в Средиземье все еще страдают от коррумпированных королей и императоров. Под нашим присмотром, другие крестьяне и обычный народ сбросят свои цепи, как это сделали мы."
+
+MOR_create_unrest_gon:0 "Создать Беспорядки"
+MOR_create_unrest_gon_desc:0 ""
+MOR_spread_support_for_mordor_gon:0 "Распространить поддержку"
+MOR_spread_support_for_mordor_gon_desc:0 ""
+MOR_make_contact_with_rebels_gon:0 "Выйти на контакт с мятежниками"
+MOR_make_contact_with_rebels_gon_desc:0 ""
+MOR_send_supplies_to_rebels_gon:0 "Отправить снабжение мятежникам"
+MOR_send_supplies_to_rebels_gon_desc:0 ""
+MOR_support_the_rebels_in_spreading_gon:0 "Помочь мятежникам"
+MOR_support_the_rebels_in_spreading_gon_desc:0 ""
+MOR_contact_with_rebels_gon:0 "Выйти на Контакт с Гондорскими мятежниками"
+
+MOR_create_unrest_roh:0 "Создать Беспорядки"
+MOR_create_unrest_roh_desc:0 ""
+MOR_spread_support_for_mordor_roh:0 "Распространить поддержку"
+MOR_spread_support_for_mordor_roh_desc:0 ""
+MOR_make_contact_with_rebels_roh:0 "Выйти на контакт с мятежниками"
+MOR_make_contact_with_rebels_roh_desc:0 ""
+MOR_send_supplies_to_rebels_roh:0 "Отправить снабжение мятежникам"
+MOR_send_supplies_to_rebels_roh_desc:0 ""
+MOR_support_the_rebels_in_spreading_roh:0 "Помочь мятежникам"
+MOR_support_the_rebels_in_spreading_roh_desc:0 ""
+MOR_contact_with_rebels_roh:0 "Выйти на Контакт с Гондорскими мятежниками"
+
+MOR_legitimize_new_ruler:0 "Узаконить нашего нового правителя"
+MOR_legitimize_new_ruler_desc:0 "Саурон мертв.Да здравствует Новый Темный Лорд!"
+
+#################################
+#Communisme
+#################################
+MOR_send_union_invites:0 "Отправить приглашения в альянс"
+Send_union_invite_to_Dagorlad:0 "Отправить требования Дагорладу"
+Send_union_invite_to_Dagorlad_desc:0 "Они либо преклонят колено, либо будут уничтожены, но точно не будут стоять у нас на пути."
+Send_union_invite_to_Eastlands:0 "Отправить требования Восточным Землям"
+Send_union_invite_to_Eastlands_desc:0 "Они либо преклонят колено, либо будут уничтожены, но точно не будут стоять у нас на пути."
+Send_union_invite_to_Harad:0 "Отправить требования Хараду"
+Send_union_invite_to_Harad_desc:0 "Они либо преклонят колено, либо будут уничтожены, но точно не будут стоять у нас на пути."
