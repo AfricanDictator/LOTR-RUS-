@@ -122,7 +122,7 @@ modifier_production_speed_library_factor:0 "Скорость строитель�
 modifier_production_speed_library_factor_desc:0 "Изменяет скорость строительства библиотеки."
 
 
-CONSTRUCTION_USED_FACTORIES_NUM:0 "§H$ИСПОЛЬЗОВАНО$/$МАКС$§!"
+CONSTRUCTION_USED_FACTORIES_NUM:0 "§H$USED$/$MAX$§!"
 
 
  infrastructure:0 "Инфраструктура"
