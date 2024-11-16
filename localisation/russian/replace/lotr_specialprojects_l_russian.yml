@@ -1,0 +1,34 @@
+﻿l_russian:
+
+PROJECT_SIMPLE_ROSTER_WINDOW_TITLE:0 "Доступные заклинания"
+
+FACILITY_OVERVIEW_TITLE: "Доступные заклинания: "
+
+PROGRAM_VIEW_REQUIRE_SCIENTIST: "§RТребуется §! §YУченый§!"
+
+PROGRAM_VIEW_RESEARCH_TIME: "§Y$DAYS|0$ день(дня/дней)§!"
+
+SPECIAL_PROJECT_UNABLE_TO_START: ""
+SPECIAL_PROJECT_BREAKTHROUGH_COST: "Требуется £spell_points_texticon очков заклинания: $AMOUNT$"
+BREAKTHROUGH_POINTS_TRIGGER_ENOUGH_POINTS: "§GИмеется не менее $AMOUNT$ £spell_points_texticon очков заклинания"
+BREAKTHROUGH_POINTS_TRIGGER_NOT_ENOUGH_POINTS: "§RНедостаточно $AMOUNT$ £spell_points_texticon очков заклинания"
+
+SPECIAL_PROJECT_BREAKTHROUGH_COST_ENOUGH: "§GТребуется очко(очки) заклинания:§! $AMOUNT|G$ £spell_points_texticon "
+SPECIAL_PROJECT_BREAKTHROUGH_COST_NOT_ENOUGH: "§RТребуется очко(очки) заклинания:§! $AMOUNT|R$ £spell_points_texticon "
+
+ADD_BREAKTHROUGH_POINTS_EFFECT_DESC: "Получите £spell_points_texticon очки заклинания:"
+ADD_BREAKTHROUGH_PROGRESS_EFFECT_DESC: "Получите £spell_points_texticon прогресс заклинания:"
+FACILITY_BREAKTHROUGH_TITLE: "Очки заклинаний"
+
+PROGRAM_BASIC_RESEARCH: "Обеспечение прогресса в £spell_points_texticon заклинаниях на $BREAKTHROUGH_PROGRESS$% и бонус к исследованиям $TECHNOLOGY_BONUS|1%$"
+
+ONGOING_PROJECT_BREAKTHROUGH_REFUND: "Отмена проекта до завершения итерации вернет очки прорыва:"
+
+SPECIAL_PROJECT_BREAKTHROUGH_PROGRESS: "Текущий прогресс к новому £spell_points_texticon очку заклинания: $PROGRESS|1%Y$"
+SPECIAL_PROJECT_BREAKTHROUGH_AVAILABLE: "$AMOUNT|Y$ £spell_points_texticon очко(очки) заклинания получены"
+
+ADD_BREAKTHROUGH_POINTS_EFFECT_DESC: "Получите £spell_points_texticon очки заклинания:"
+
+ADD_BREAKTHROUGH_PROGRESS_EFFECT_DESC: "Получите £spell_points_texticon прогресс заклинания:"
+
+PROGRAM_VIEW_PROJECT_PROGRESS: "$PROGRESS|0%$"
