@@ -1,27 +1,29 @@
 ﻿l_russian:
 
-ELI_unite_the_realm:0 "Unite the Realm"
-ELI_unite_the_realm_desc:0 "Our brethren from Ered Luin have spoken and set a clear path for our future. We must back them with all we hae and unite the realm under their banner."
+ELI_unite_the_realm:0 "Объединить королевство"
+ELI_unite_the_realm_desc:0 "Наши братья из Эред Луина высказались и указали ясный путь в будущее. Мы должны поддержать их всем, что у нас есть, и объединить королевство под их знаменем."
 
-ELI_elect_a_leader:0 "Elect a Leader"
-ELI_elect_a_leader_desc:0 "The halls of our great ancestors decay and our throne is empty. Es peril encroaches upon all that is good, we must wake from this stupor and elect a leader to guide us through these dark times."
+ELI_elect_a_leader:0 "Избрать лидера"
+ELI_elect_a_leader_desc:0 "Залы наших великих предков разрушаются, а трон пустует. Когда угроза надвигается на все, что хорошо, мы должны пробудиться от этого оцепенения и избрать лидера, который поведет нас через эти темные времена."
 
-ELU_disjointed_purpose:0 "Disjointed Purpose"
-ELU_disjointed_purpose_desc:0 "After years of internal strife and dwindling resources, the once-proud kingdom of Ered Luin has fallen into disarray. The dwarves, scattered and leaderless, have lost their sense of direction. Without a unifying goal or strong leadership to guide them, the people are divided, unable to rally behind a common cause, and their once-great strength now lies fractured and aimless."
+ELU_disjointed_purpose:0 "Разрозненные цели"
+ELU_disjointed_purpose_desc:0 "После многих лет внутренних конфликтов и истощения ресурсов некогда гордое королевство Эред Луина впало в хаос. Гномы, разбросанные и без лидера, потеряли свое направление. Без объединяющей цели или сильного руководства, чтобы вести их, народ разделен, не способен собраться вокруг общей цели, и их некогда великая сила теперь разбита и бесполезна."
 
-ELI_disjointed_purpose:0 "Disjointed Purpose"
-ELI_disjointed_purpose_desc:0 "Without clear guidance from Ered Luin, the dwarves of Ered Lindon lack the organizational structures and authority to assemble a standing army."
+ELI_disjointed_purpose:0 "Разрозненные цели"
+ELI_disjointed_purpose_desc:0 "Без четких указаний от Эред Луина гномы Эред Линдона не имеют организационных структур и авторитета для формирования постоянной армии."
 
-ELU_warrior_king_unitleader_tt:0 "Every time this leader wins a battle, gain §G+1%§! §YWar Support§!."
+ELU_warrior_king_unitleader_tt:0 "Каждый раз, когда этот лидер выигрывает битву, получает §G+1%§! §YПоддержки войны§!."
 
-ELU_warrior_king_unitleader:0 "Warrior King"
-ELU_warrior_king_unitleader_desc:0 "A King that leads from the front, inspiring his troops to fight with unmatched ferocity. (Trait only applies if character is also the country leader.)"
-ELU_skilled_politician:0 "Shrewd Politician"
-ELU_warrior_king:0 "Warrior King"
+ELU_warrior_king_unitleader:0 "Король-воин"
+ELU_warrior_king_unitleader_desc:0 "Король, который ведет с передовой, вдохновляя свои войска на бой с несравненной яростью. (Черта действует только в том случае, если персонаж также является лидером страны.)"
 
-ELU_warrior_king_tt:0 "A random §Ygeneral§! will become our country leader and receive the §Y$ELU_warrior_king$§! trait, with the following effects:\n    §R-15%§! Political Power Gain\n    §G+50%§! Command Power Gain\n    §G+50%§! Command Power Cap\n    $ELU_warrior_king_unitleader_tt$\nChange ideology to §YBelligerent§!."
+ELU_skilled_politician:0 "Проницательный политик"
+ELU_warrior_king:0 "Король-воин"
 
-ELU_political_king_tt:0 "A random §Ypolitical advisor§! (small council) will become our country leader and receive the §Y$ELU_skilled_politician$§! trait, with the following effects:\n    §G+15%§! Political Power Gain\n    §G+0.3%§! Weekly Stability\n    §G-25%§! Political Advisor Cost\n    §G-25%§! Spymaster Cost\n    §G-25%§! Treasurer Cost\nChange ideology to §YBelligerent§!."
 
-elu_durin_7th_accepted:0 "Durin VII has accepted our invitation"
-elu_durin_7th_refused:0 "Durin VII has refused our invitation"
+ELU_warrior_king_tt:0 "Случайный §Yгенерал§! станет лидером страны и получит черту §Y$ELU_warrior_king$§!, с следующими эффектами:\n    §R-15%§! Получение политической власти\n    §G+50%§! Получение командной власти\n    §G+50%§! Лимит командной власти\n    $ELU_warrior_king_unitleader_tt$\nИзменить идеологию на §YВойнствующий§!."
+
+ELU_political_king_tt:0 "Случайный §Yполитический советник§! (малый совет) станет лидером страны и получит черту §Y$ELU_skilled_politician$§!, с следующими эффектами:\n    §G+15%§! Получение политической власти\n    §G+0,3%§! Еженедельная стабильность\n    §G-25%§! Стоимость политического советника\n    §G-25%§! Стоимость шпиономастера\n    §G-25%§! Стоимость казначея\nИзменить идеологию на §YВойнствующий§!."
+
+elu_durin_7th_accepted:0 "Дурин VII принял наше приглашение"
+elu_durin_7th_refused:0 "Дурин VII отклонил наше приглашение"
