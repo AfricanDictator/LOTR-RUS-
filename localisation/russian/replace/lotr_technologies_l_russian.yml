@@ -1399,10 +1399,10 @@ lifeboats_module_desc:0 ""
 
  atomic_research:0 "Старые секреты"
  atomic_research_desc:0 ""
-
- nuclear_reactor:0 "Производство экзотермических реагентов"
- nuclear_reactor_short:0 "Экзотермические Реагенты"
- nuclear_reactor_desc:0 ""
+ 
+ nukes_tech:0 "Производство экзотермических реагентов"
+ nukes_tech_short:0 "Экзотермические Реагенты"
+ nukes_tech_desc:0 ""
 
  nukes:0 "Развязанное опустошение"
  nukes_desc:0 ""
@@ -1429,6 +1429,16 @@ lifeboats_module_desc:0 ""
 
  advanced_encryption:0 "Продвинутое шифрование"
  advanced_encryption_desc:0 ""
+ 
+ infiltrators_tech:0 "Диверсанты"
+ infiltrators_tech_desc:0 ""
+ infiltrators_tech_tt:0 "§YДиверсанты§! позволяет нам проводить тайные налеты для саботажа узлов снабжения врага, замков и других объектов."
+ 
+ infiltrators_tech_2:0 "Подрывная деятельность"
+ infiltrators_tech_2_desc:0 ""
+
+ infiltrators_tech_3:0 "Разведка на поле боя"
+ infiltrators_tech_3_desc:0 ""
 
  basic_decryption:0 "Базовое дешифрование"
  basic_decryption_desc:0 ""
@@ -1594,8 +1604,11 @@ lifeboats_module_desc:0 ""
  modern_oil_processing:0 "Рыболовство II"
  modern_oil_processing_desc:0 ""
 
- rubber_processing:0 "Обработка кожи I"
+ rubber_processing:0 "Базовое рыбное хозяйство"
  rubber_processing_desc:0 ""
+ 
+ improved_fishing:0 "Улучшенное рыбное хозяйство"
+ improved_fishing_desc:0 ""
 
  improved_rubber_processing:0 "Обработка кожи II"
  improved_rubber_processing_desc:0 ""
@@ -2185,3 +2198,14 @@ alchemy_title:0 "Алхимия"
 alchemy_desc:0 "Изучение вещества как реагента может выявить не только разрушительный потенциал, но и то, какие достоинства и мощь заключены в лекарствах."
 intrigue_title:0 "Интриги"
 intrigue_desc:0 "Манипулирование секретностью и информацией жизненно важно для обороны и процветания. Каждый человек, друг или враг, окружен целым рядом добровольных шпионов."
+
+foundry_tech:0 "Плавильня"
+foundry_tech_desc:0 ""
+
+barracks_tech:0 "Казармы"
+barracks_tech_desc:0 ""
+
+barracks_tech2:0 "Казармы"
+barracks_tech2_desc:0 ""
+
+foundry_tt:0 "Это здание считается §YВоенной фабрикой§!."
