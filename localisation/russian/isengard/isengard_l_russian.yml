@@ -1,153 +1,225 @@
 ﻿l_russian:
-agifttogondor:0 "A gift to Gondor"
-agifttogondor_desc:0 "The realm of Gondor lies at Mordor's doorstep. If we are to stop the dark awakening from the east, we must make sure they are ready to hold their ground."
-slavesoldiersofrohan:0 "Slave Soldiers of Rohan"
-slavesoldiersofrohan_desc:0 "Too long have the horeslords stood against our might, but no more. They will learn to serve as our subjects or pay the price of freedom in blood."
-shareknowledgewithgandalf:0 "Mithrandir's knowledge"
-shareknowledgewithgandalf_desc:0 "With Gandalf on our side, we may pool our knowledge of the finer arts and use our combinde learnings to defeat the arising darkness from the east."
-protectisengard:0 "Protect Isengard"
-protectisengard:0 "We need to make all necessary arrangements to defend our land against the orc hordes, should the battle come to our doorstep."
-improvewhitecouncilrelations:0 "Improve White Council Relations"
-improvewhitecouncilrelations_desc:0 "Sauron has been beaten before. The Alliance of the White Council once fought with all their might at the slopes of Mount Doom. We must seek to maintain good relations in roder to restore this Alliance."
-isr_unitewithgondor:0 "Unite with Gondor"
-isr_unitewithgondor_desc:0 "Gondor has proven to be the shield that guards Middle Earth from the encroaching Darkness. We must pleadge our support to this cause in order to ensure the survival of all things good."
-anorganicmagic:0 "Anorganic Magic"
-anorganicmagic:0 "Commonly known as alchemy, magic may also be used to synthesize industrial resources that may prove useful in the war effort."
-improvedcombattactics2:0 "Improved Combat Tactics"
-improvedcombattactics2_desc:0 "By carefully studying the art of warfare we may gain an advantage over the mindless hordes of the orcs."
-advancedwarfare2:0 "Advanced Warfare"
-advancedwarfare2_desc:0 "While steel clashes with steel, we should seek to utilize the powers of the white wizard on the battlefield."
-veryintensewizardry:0 "Very Intense Wizardry"
-veryintensewizardry_desc:0 "If we cannot beat Mordor on the field, the combined might of Saruman and Gandalf may break the Dark Lords Hordes."
-strikeadealwithenedwaith:0 "Strike a deal with Enedwaith"
-strikeadealwithenedwaith_desc:0 "Once the tribes ahve realized that the horselords of Rohan are the true enemy, we need but to accept their oaths of fealty."
-isr_warwithgondor:0 "War with Gondor"
-isr_warwithgondor_desc:0 "Only the realm of Gondor is weak and fractured. We need but to march our armies south and they will rust their chainmail where they stand."
-helmsdeephasbutoneweakness:0 "Helm's Deep has but one weakness"
-helmsdeephasbutoneweakness_desc:0 "The outer walls of Helms Deep are stone so thick no catapult can crumble them. But with the wisdom of Saruman, we may yet bring the impregnable fortress to it's knees."
-pillagethetownsofrohan:0 "Pillage the towns of Rohan"
-pillagethetownsofrohan_desc:0 "The peasants of Rohan are weak and gullible. With hordes or orcs burning their villages and destroying their crops, how long before they lose faith in their King?"
-setupaproductionline:0 "Fires of Industry"
-setupaproductionline_desc:0 "The old world will burn in the fires of industry. Forests will fall. A new order will rise."
-digupthefangornforest:0 "Dig up the Fangorn Forest"
-digupthefangornforest_desc:0 "Beneath the ashes of Fangorn many valuable materials lie burried."
-moreorcs:0 "More Orcs!"
-moreorcs_desc:0 "If we are to challenge the army of Rohan, we ought to make sure to outnumber them first."
-selectthestrongesfew:0 "Select the strongest Few"
-selectthestrongesfew_desc:0 "Our new world leaves no place for weakness. Only the strongest can guide our troops to victory."
-militaryresearchcommittee:0 "Military Research Committee"
-militaryresearchcommittee_desc:0 "The Uruk-hai are born warriors whose strength no man can beat. But what is strength without the knowledge of when to use it?"
-improvedsteelmanufacturing:0 "Improved Steel Manufacturing"
-improvedsteelmanufacturing_desc:0 "Armies are made of flesh and steel. We ahve the flesh, but require more steel."
-examinetheeagles:0 "Examine the Eagles"
-examinetheeagles_desc:0 "Our men have shot down some of the Eagles Gandalf holds so dear. If Saruman were to examine them, it could prove useful to expanding our armies for air dominance."
-improvedcombattactics:0 "Improved Combat Tactics"
-improvedcombattactics_desc:0 "We need to ensure the licentious orcs are capable of following orders and do more than just brutalizing peasants."
-advancedwarfare:0 "Advanced Warfare"
-advancedwarfare_desc:0 "While steel clashes with steel, we should seek to utilize the powers of the white wizard on the battlefield."
-trainorcscholars:0 "Train Orc Scholars"
-trainorcscholars_desc:0 "Some of the orcs that prove to be unsuitable for battle can be retrained to aid Saruman in his search for knowledge."
-intensewizardry:0 "Intense Wizardry"
-veryintensewizardry_desc:0 "If the enemy does not bend at the sight of our armies, it will break under the raw power of Saruman the wise."
-militaryinnovations:0 "Military Innovations"
-militaryinnovations_desc:0 "With a great war looming over Middle Earth, we cannot allow to stay behind on military matters."
-compoundcrossbows:0 "Compound Crossbows"
-compoundcrossbows_desc:0 "By applying a levering system to our crossbows, we may increase their effectiveness."
-armorinnovations:0 "Armor Innovations"
-armorinnovations_desc:0 "The thicker our armor, the less likely arrows will pierce it."
-specializeddivisions:0 "Specialized Divisions"
-specializeddivisions_desc:0 "The most advanced tactical maneuvers require highly trained divisions to carry them out."
-rainfirefromabove:0 "Rain Fire from above"
+agifttogondor:0 "Подарок Гондору"
+agifttogondor_desc:0 "Королевство Гондор находится на пороге Мордора. Если мы хотим остановить тьму, пробуждающуюся на востоке, мы должны убедиться, что они готовы держать оборону."
+
+slavesoldiersofrohan:0 "Рабские солдаты Рохана"
+slavesoldiersofrohan_desc:0 "Слишком долго властители коней противостояли нашей мощи, но больше нет. Они научатся служить нам, как подданные, или заплатят цену свободы кровью."
+
+shareknowledgewithgandalf:0 "Знания Митрандира"
+shareknowledgewithgandalf_desc:0 "С Гэндальфом на нашей стороне мы можем объединить наши знания в тонких искусствах и использовать их, чтобы победить пробуждающуюся тьму с востока."
+
+protectisengard:0 "Защитить Изенгард"
+protectisengard_desc:0 "Нам нужно принять все необходимые меры, чтобы защитить наши земли от орочьих орд, если битва дойдет до наших ворот."
+
+improvewhitecouncilrelations:0 "Улучшить отношения с Белым Советом"
+improvewhitecouncilrelations_desc:0 "Саурон уже был побежден. Союз Белого Совета однажды сражался изо всех сил на склонах Роковой Горы. Мы должны поддерживать хорошие отношения, чтобы восстановить этот Союз."
+
+isr_unitewithgondor:0 "Объединиться с Гондором"
+isr_unitewithgondor_desc:0 "Гондор доказал, что является щитом, защищающим Средиземье от надвигающейся Тьмы. Мы должны поддержать это дело, чтобы обеспечить выживание всего доброго."
+
+anorganicmagic:0 "Аноорганическая магия"
+anorganicmagic_desc:0 "Известная как алхимия, магия также может использоваться для синтеза промышленных ресурсов, которые могут оказаться полезными в военных усилиях."
+
+improvedcombattactics2:0 "Улучшенные тактики боя"
+improvedcombattactics2_desc:0 "Тщательно изучая искусство ведения войны, мы можем получить преимущество над бездумными ордами орков."
+
+advancedwarfare2:0 "Продвинутая тактика ведения войны"
+advancedwarfare2_desc:0 "Пока сталь бьется о сталь, мы должны стремиться использовать силу белого мага на поле боя."
+
+veryintensewizardry:0 "Очень интенсивное колдовство"
+veryintensewizardry_desc:0 "Если мы не можем победить Мордора в открытом бою, объединенная сила Сарумана и Гэндальфа может сломить орды Темного Властелина."
+
+strikeadealwithenedwaith:0 "Заключить сделку с Энедвайтом"
+strikeadealwithenedwaith_desc:0 "Как только племена осознают, что настоящим врагом являются конные владыки Рохана, нам останется лишь принять их клятвы верности."
+
+isr_warwithgondor:0 "Война с Гондором"
+isr_warwithgondor_desc:0 "Только королевство Гондор слабо и разобщено. Нам нужно лишь отправить наши войска на юг, и они заржавеют в своих кольчугах прямо на месте."
+
+helmsdeephasbutoneweakness:0 "У Хельмовой Пади есть лишь одна слабость"
+helmsdeephasbutoneweakness_desc:0 "Внешние стены Хельмовой Пади настолько прочны, что ни одна катапульта не сможет их разрушить. Но с мудростью Сарумана мы можем поставить этот неприступный форт на колени."
+
+pillagethetownsofrohan:0 "Разграбить города Рохана"
+pillagethetownsofrohan_desc:0 "Крестьяне Рохана слабы и легковерны. С ордами орков, сжигающими их деревни и уничтожающими урожай, сколько времени пройдет, прежде чем они потеряют веру в своего короля?"
+
+setupaproductionline:0 "Пламя индустрии"
+setupaproductionline_desc:0 "Старый мир сгорит в огне индустрии. Леса падут. Восстанет новый порядок."
+
+digupthefangornforest:0 "Выкопать лес Фангорн"
+digupthefangornforest_desc:0 "Под пеплом Фангорна лежит множество ценных материалов."
+
+moreorcs:0 "Больше орков!"
+moreorcs_desc:0 "Если мы собираемся бросить вызов армии Рохана, нам следует сначала обеспечить численное превосходство."
+
+selectthestrongesfew:0 "Выбрать сильнейших"
+selectthestrongesfew_desc:0 "В нашем новом мире нет места для слабости. Только сильнейшие смогут вести наши войска к победе."
+
+militaryresearchcommittee:0 "Комитет военных исследований"
+militaryresearchcommittee_desc:0 "Урук-хай — прирожденные воины, чья сила непревзойденна. Но что такое сила без знания, когда её применять?"
+
+improvedsteelmanufacturing:0 "Улучшенное производство стали"
+improvedsteelmanufacturing_desc:0 "Армии состоят из плоти и стали. У нас есть плоть, но нам нужно больше стали."
+
+examinetheeagles:0 "Исследовать орлов"
+examinetheeagles_desc:0 "Наши люди сбили нескольких орлов, которые так дороги Гэндальфу. Если Саруман изучит их, это может оказаться полезным для укрепления нашего воздушного превосходства."
+
+improvedcombattactics:0 "Улучшенные тактики боя"
+improvedcombattactics_desc:0 "Нам нужно убедиться, что разнузданные орки способны следовать приказам и делать больше, чем просто жестоко обращаться с крестьянами."
+
+advancedwarfare:0 "Продвинутая тактика ведения войны"
+advancedwarfare_desc:0 "Пока сталь бьется о сталь, мы должны стремиться использовать силу белого мага на поле боя."
+
+trainorcscholars:0 "Обучить орков-ученых"
+trainorcscholars_desc:0 "Некоторые орки, которые оказались непригодными для битвы, могут быть переобучены, чтобы помогать Саруману в поиске знаний."
+
+intensewizardry:0 "Интенсивное колдовство"
+veryintensewizardry_desc:0 "Если враг не склонится при виде наших армий, он сломается под грубой силой Сарумана Мудрого."
+
+militaryinnovations:0 "Военные инновации"
+militaryinnovations_desc:0 "С приближением великой войны в Средиземье мы не можем позволить себе отставать в военных вопросах."
+
+compoundcrossbows:0 "Составные арбалеты"
+compoundcrossbows_desc:0 "Используя рычажную систему для наших арбалетов, мы можем увеличить их эффективность."
+
+armorinnovations:0 "Инновации в броне"
+armorinnovations_desc:0 "Чем толще наша броня, тем меньше вероятность, что стрелы её пробьют."
+
+specializeddivisions:0 "Специализированные подразделения"
+specializeddivisions_desc:0 "Самые продвинутые тактические маневры требуют наличия высоко обученных подразделений для их выполнения."
+
+rainfirefromabove:0 "Огненный дождь с небес"
 rainfirefromabove_desc:0 ""
-improvedexplosives:0 "Improved Explosives"
+
+improvedexplosives:0 "Улучшенные взрывчатые вещества"
 improvedexplosives_desc:0 ""
-strategicassistance:0 "Strategic Assistance"
+
+strategicassistance:0 "Стратегическая помощь"
 strategicassistance_desc:0 ""
-lowaltitudeimprovements:0 "Low Altitude Missions"
+
+lowaltitudeimprovements:0 "Задания на малой высоте"
 lowaltitudeimprovements_desc:0 ""
-wrathfuleagles:0 "Wrathful Eagles"
+
+wrathfuleagles:0 "Гневные орлы"
 wrathfuleagles_desc:0 ""
-expandisengardlogistics:0 "Expand Isengard Logistics"
+
+expandisengardlogistics:0 "Расширить логистику Изенгарда"
 expandisengardlogistics_desc:0 ""
-ISE_enhanceweaponproduction:0 "Enhance Weapon Production"
+
+ISE_enhanceweaponproduction:0 "Улучшить производство оружия"
 ISE_enhanceweaponproduction_desc:0 ""
-ISE_enhanceweaponproduction2:0 "Enhance Weapon Production II"
+
+ISE_enhanceweaponproduction2:0 "Улучшить производство оружия II"
 ISE_enhanceweaponproduction2_desc:0 ""
-ISE_enhancecivilianproduction:0 "Enhance Civilian Production"
+
+ISE_enhancecivilianproduction:0 "Улучшить гражданское производство"
 ISE_enhancecivilianproduction_desc:0 ""
-ISE_enhancecivilianproduction2:0 "Enhance Civilian Production II"
+
+ISE_enhancecivilianproduction2:0 "Улучшить гражданское производство II"
 ISE_enhancecivilianproduction2_desc:0 ""
-transportlines:0 "Transportlines"
+
+transportlines:0 "Транспортные линии"
 transportlines_desc:0 ""
-ISE_extraresearchslot:0 "Extra Research Slot"
+
+ISE_extraresearchslot:0 "Дополнительное исследовательское место"
 ISE_extraresearchslot_desc:0 ""
-ISE_extraresearchslot2:0 "Extra Research Slot"
+
+ISE_extraresearchslot2:0 "Дополнительное исследовательское место"
 ISE_extraresearchslot2_desc:0 ""
-excavateforresources:0 "Excavate for resources"
-excavateforresources_desc:0 "To fuel the machine of war we require all materials at our disposal."
-waysofthelight:0 "Ways of the Light"
-waysofthelight_desc:0 "The Palantirs are not all accounted for. This makes them a dangerous tool best left untouched."
-waysofthedark:0 "Ways of the Dark"
-waysofthedark_desc:0 "With one of seven Palantirs in our possesion, it would be foolish not use this tool to our advantage. Even though we do not know who else may be watching."
-meetwithgandalf:0 "Meet with Gandalf"
-meetwithgandalf_desc:0 "Our old friend and ally has requested an audience with Saruman, claiming to have information on Sauron and the One Ring. But knows he something we haven't already seen?"
-burnthefangornforest:0 "Burn the Fangorn Forest"
-burnthefangornforest_desc:0 "With their Entwives lost, the Ents are only of one use to us: to fuel our forges."
-protectthefangornforest:0 "Protect the Fangorn Forest"
-protectthefangornforest_desc:0 "The Ents may yet prove to be useful Allies in an upcoming war."
-thefateofisengard:0 "The Fate of Isengard"
-thefateofisengard_desc:0 "With fire gleaming on the horizon and Middle Earth at the brink of all out war, we must choose our allegiances carefully."
-unitewithgandalf:0 "Unite with Gandalf"
-unitewithgandalf_desc:0 "Mithrandir speaks truth. Sauron would bring an end to all things we hold dear and needs to be stopped at all cost."
-imprisongandalf:0 "Imprison Gandalf"
-imprisongandalf_desc:0 "Mithrandir has put all Middle Earth in danger by leaving the One Ring in the careless hands of a Hobbit! He is best left locked away before he compromises our position as Mordor's ally."
-rebrandisengard:0 "Rebrand Isengard"
-rebrandisengard_desc:0 "At last the time has come to publicly announce are now allegiances."
-buildanarmyworthyofmordor:0 "Build an army worthy of Mordor"
-buildanarmyworthyofmordor_desc:0 "We will drive the machine of war with the sword and the spear and the iron fist of the orcs."
-unitewithsauron:0 "Unite with Sauron"
-unitewithsauron_desc:0 "Who now has the strength to stand against the armies of Isengard and Mordor?"
-huntforthering:0 "Obtain the Ring"
+
+excavateforresources:0 "Разработка ресурсов"
+excavateforresources_desc:0 "Чтобы обеспечить работу военной машины, нам нужны все доступные материалы."
+
+waysofthelight:0 "Пути Света"
+waysofthelight_desc:0 "Не все палантиры были учтены. Это делает их опасным инструментом, который лучше оставить нетронутым."
+
+waysofthedark:0 "Пути Тьмы"
+waysofthedark_desc:0 "Имея один из семи палантиров в нашем распоряжении, было бы глупо не использовать его в наших интересах. Хотя мы не знаем, кто еще может наблюдать."
+
+meetwithgandalf:0 "Встретиться с Гэндальфом"
+meetwithgandalf_desc:0 "Наш старый друг и союзник запросил аудиенцию с Саруманом, утверждая, что у него есть информация о Сауроне и Едином Кольце. Но знает ли он что-то, чего мы еще не видели?"
+
+burnthefangornforest:0 "Сжечь лес Фангорн"
+burnthefangornforest_desc:0 "После того, как их жены-энты были потеряны, энты могут быть полезны нам только в одном: как топливо для наших кузниц."
+
+protectthefangornforest:0 "Защитить лес Фангорн"
+protectthefangornforest_desc:0 "Энты еще могут оказаться полезными союзниками в предстоящей войне."
+
+thefateofisengard:0 "Судьба Изенгарда"
+thefateofisengard_desc:0 "С огнем, сверкающим на горизонте, и Средиземьем на грани всеобщей войны, мы должны тщательно выбирать наши союзы."
+
+unitewithgandalf:0 "Объединиться с Гэндальфом"
+unitewithgandalf_desc:0 "Митрандир говорит правду. Саурон уничтожит все, что нам дорого, и его необходимо остановить любой ценой."
+
+imprisongandalf:0 "Заточить Гэндальфа"
+imprisongandalf_desc:0 "Митрандир подверг все Средиземье опасности, оставив Единое Кольцо в беспечных руках хоббита! Лучше его запереть, прежде чем он поставит под угрозу нашу позицию как союзника Мордора."
+
+rebrandisengard:0 "Переименовать Изенгард"
+rebrandisengard_desc:0 "Наконец-то настало время публично объявить о наших новых союзах."
+
+buildanarmyworthyofmordor:0 "Создать армию, достойную Мордора"
+buildanarmyworthyofmordor_desc:0 "Мы поведем военную машину с мечом, копьем и железным кулаком орков."
+
+unitewithsauron:0 "Объединиться с Сауроном"
+unitewithsauron_desc:0 "Кто теперь имеет силу противостоять армиям Изенгарда и Мордора?"
+
+huntforthering:0 "Получить Кольцо"
 huntforthering_desc:0 ""
-claimdominionoverenedwaith:0 "Claim Dominion over Enedwaith"
-claimdominionoverenedwaith_desc:0 "The tribes of Enedwaith owe their loyalty to their liberator and harbinger, Saruman."
-declareagainstsauron:0 "Declare against Sauron"
-claimdominionoverenedwaith_desc:0 "The Dark Lord of Mordor must stand his armies down, or will be destroyed."
-quarrelwithrohan:0 "Quarrel with Rohan"
-quarrelwithrohan_desc:0 "it will begin in Rohan. They will step aside or be crushed under our heel."
-takethefordsofisen:0 "Take the Fords of Isen"
-takethefordsofisen_desc:0 "With Rohan weakened and suffering from poor leadership, their lands are right for the taking."
-establishorcbreedinggrounds:0 "Establish Orc Breeding Grounds"
+
+claimdominionoverenedwaith:0 "Провозгласить господство над Энедвайтом"
+claimdominionoverenedwaith_desc:0 "Племена Энедвайта обязаны своей верностью своему освободителю и вестнику — Саруману."
+
+declareagainstsauron:0 "Объявить против Саурона"
+declareagainstsauron_desc:0 "Темный Властелин Мордора должен отозвать свои армии, иначе будет уничтожен."
+
+quarrelwithrohan:0 "Ссора с Роханом"
+quarrelwithrohan_desc:0 "Все начнется в Рохане. Они либо уступят дорогу, либо будут сокрушены под нашими пятами."
+
+takethefordsofisen:0 "Захватить брод Изен"
+takethefordsofisen_desc:0 "Ослабленный Рохан, страдающий от плохого руководства, готов для захвата его земель."
+
+establishorcbreedinggrounds:0 "Основать орочьи выводковые территории"
 establishorcbreedinggrounds_desc:0 ""
-givetheringtosauron:0 "Give the Ring to Sauron"
-givetheringtosauron_desc:0 "The One Ring belongs to it's creator, Sauron."
-takeeastdunland:0 "Take East Dunland"
-takeeastdunland_desc:0 "The Dunland Mountain tribes will offer no resistance to our armies seizing their land."
-subjugateenedwaith:0 "Subjugate Enedwaith"
-subjugateenedwaith_desc:0 "The tribes of Enedwaith have suffered long enough. They will reap the benefits of Saruman's leadership whether they want or not."
-persuadeenedwaith:0 "Persuade Enedwaith"
-persuadeenedwaith_desc:0 "The tribes of Enedwaith have no love for the Rohirrim. It should be a simple task to persuade them to join our efforts."
-demandthewestmarch:0 "Demand the Westmarch"
-demandthewestmarch_desc:0 "The Westmarch may prove to be a tactical disadvantage in our efforts against Rohan. The Rohirrim may be foolish enough to buy some time by simply handing it over."
-keeptheringforyourself:0 "Keep the Ring for yourself!"
-keeptheringforyourself_desc:0 "Sauron has proven his weakness in the past. The One Ring rightfully belongs to the undefeated Saruman!"
-rallythetribesofeastdunland:0 "Rally the Tribes of East Dunland"
-rallythetribesofeastdunland_desc:0 "East Dunlannd holds no love for the Rohirrim. Many will be glad to join our efforts."
-warwithlrien:0 "War with Lórien"
-warwithlrien_desc:0 "Lothlorien will give us access to Rhovanion."
-betraysauron:0 "Betray Sauron"
+
+givetheringtosauron:0 "Отдать Кольцо Саурону"
+givetheringtosauron_desc:0 "Единое Кольцо принадлежит своему создателю — Саурону."
+
+takeeastdunland:0 "Захватить Восточный Данланд"
+takeeastdunland_desc:0 "Горные племена Данланда не окажут сопротивления нашим армиям, захватывающим их земли."
+
+subjugateenedwaith:0 "Покорить Энедвайт"
+subjugateenedwaith_desc:0 "Племена Энедвайта страдали достаточно долго. Они получат все выгоды от руководства Сарумана, хотят они этого или нет."
+
+persuadeenedwaith:0 "Убедить Энедвайт"
+persuadeenedwaith_desc:0 "Племена Энедвайта не питают любви к рохирримам. Убедить их присоединиться к нашим усилиям должно быть простой задачей."
+
+demandthewestmarch:0 "Потребовать Западную Марку"
+demandthewestmarch_desc:0 "Западная Марка может оказаться тактическим недостатком в наших усилиях против Рохана. Рохирримы могут быть достаточно глупы, чтобы выиграть немного времени, просто отдав её."
+
+keeptheringforyourself:0 "Оставить Кольцо себе!"
+keeptheringforyourself_desc:0 "Саурон уже доказывал свою слабость в прошлом. Единое Кольцо по праву принадлежит непобедимому Саруману!"
+
+rallythetribesofeastdunland:0 "Сплотить племена Восточного Данланда"
+rallythetribesofeastdunland_desc:0 "Восточный Данланд не испытывает симпатии к рохирримам. Многие будут рады присоединиться к нашим усилиям."
+
+warwithlrien:0 "Война с Лориэном"
+warwithlrien_desc:0 "Лотлориэн даст нам доступ к Рованиону."
+
+betraysauron:0 "Предать Саурона"
 betraysauron_desc:0 ""
-warwithgondor:0 "War with Gondor"
+
+warwithgondor:0 "Война с Гондором"
 warwithgondor_desc:0 ""
-warwithrohan:0 "War with Rohan"
+
+warwithrohan:0 "Война с Роханом"
 warwithrohan_desc:0 ""
-ourownway:0 "Our Own Way"
+
+ourownway:0 "Собственный путь"
 ourownway_desc:0 ""
-helmsdeephasbutoneweakness_effect_tooltip:0 "Helm's Deep will be devastated in a gigantic explosion."
 
-isr_treason:0 "The betrayel of Saruman"
+helmsdeephasbutoneweakness_effect_tooltip:0 "Хельмова Падь будет разрушена гигантским взрывом."
 
-warwithlorien:0 "War with lothlorien"
+isr_treason:0 "Предательство Сарумана"
+
+warwithlorien:0 "Война с Лотлориэном"
 warwithlorien_desc:0 ""
 
-ISE_tooltip_loading_militia:0 "§YMilitia troops will appear on the map.§!"
+ISE_tooltip_loading_militia:0 "§YНа карте появятся войска ополчения.§!"
