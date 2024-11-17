@@ -24,6 +24,23 @@ FOCUS_FILTER_ELVEN_FACTIONS:0 "Эльфийские Фракции"
 FOCUS_FILTER_COOPERATIVE:0 "Кооперативность"
 FOCUS_FILTER_BELLIGERENT:0 "Воинственность"
 FOCUS_FILTER_DENETHOR_PARANOIA:0 "Параноя Денетора"
+FOCUS_FILTER_DEFENSE:0 "Оборонительный"
+FOCUS_FILTER_FARMING:0 "Фермерство"
+FOCUS_FILTER_BOP_GRIMA:0 "Баланс сил - Грима"
+FOCUS_FILTER_BOP_THEODEN:0 "Баланс сил - Теоден"
+FOCUS_FILTER_ROH_STATESCRAFT:0 "Знания и государственное управление"
+FOCUS_FILTER_ROH_LORDS:0 "Маршалы Рохана"
+# These are from vanilla. I'm leaving them here so there's a "list" of all possible filters
+#FOCUS_FILTER_POLITICAL
+#FOCUS_FILTER_INDUSTRY
+#FOCUS_FILTER_RESEARCH
+#FOCUS_FILTER_ANNEXATION
+#FOCUS_FILTER_STABILITY
+#FOCUS_FILTER_WAR_SUPPORT
+#FOCUS_FILTER_MANPOWER
+#FOCUS_FILTER_ARMY_XP
+#FOCUS_FILTER_NAVY_XP
+#FOCUS_FILTER_AIR_XP
 
 autonomy_fiefdom:0 "Вотчина"
 
@@ -58,6 +75,12 @@ dark_grounds_desc:0 ""
 state_controller_name:0 "[THIS.owner.GetName]"
 state_strategic_value:0 "§H[?THIS.state_strategic_value]§!"
 strategic_value_tt:0 "§HСтратегическая ценность§!\n\nТекущая стратегическая ценность области, определяемая зданиями."
+state_strategic_value_label:0 "Стратегическая ценность:"
+
+state_population_label:0 "Население:"
+
+province_buildings_label:0 "Постройки провинции:"
+state_buildings_label:0 "Региональные постройки:"
 
 mobilize_action_button_tt:0 "§HУскорить мобилизацию§!\nУвеличьте скорость мобилизации на ограниченное время\n\n[!mobilize_action_button_click]\n\n[!mobilize_action_button_click_enabled]"
 hasten_supply_action_button_tt:0 "§HУскорить строительство узла снабжения§!\nВременно увеличьте скорость строительства §Yузлов снабжения§! за счет использования гражданских фабрик.\n\n[!hasten_supply_action_button_click]\n\n[!hasten_supply_action_button_click_enabled]"
@@ -113,6 +136,7 @@ landmark_black_gate:0 "Черные Ворота Мораннона"
 landmark_black_gate_desc:0 "Вход в Мордор, владения Темного Властелина."
 landmark_argonath:0 "Столпы Аргоната"
 landmark_argonath_desc:0 "Статуи Исилдура и Анариона, охраняющие вход в Гондор."
+
 
 MOR_select_image:0 "Мордор"
 MOR_select_image_desc:0 ""
@@ -180,3 +204,7 @@ fs_fellowship_breakup:0 "The Fellowship has been separated at Argonath"
 any_neighbour_in_faction_tt:0 "имеет границу с [ROOT.GetFactionName]"
 has_common_enemy_tt:0 "сражается с общим врагом вместе с [Root.GetName]"
 in_faction_neighbouring_root_tt:0 "[THIS.GetFactionName] граничит с [ROOT.GetName]"
+
+
+bulwark_info_tt:0 "§YОплот-Вассал§! не может объявлять войны или вести независимую дипломатию, но получает значительные прибавки к военному производству."
+autonomous_tributary_info_tt:0 "§YСюзерен§! оставляет за собой право вести независимую дипломатию, в том числе объявлять войны или отказываться от них, но выплачивать большую часть своей гражданской промышленности своему повелителю."
