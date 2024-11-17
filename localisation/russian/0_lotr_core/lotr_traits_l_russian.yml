@@ -2,7 +2,9 @@
  dislikes_mirkwood:0 "Не любит Эльфов"
  dislikes_erebor:0 "Не любит Эребор"
  ringbearer:0 "Носитель Кольца"
- ringbearer_desc:0 "Один из немногих обладаиеоей магических колец."
+ ringbearer_desc:0 "Один из немногих, кому посчастливилось обладать магическим кольцом."
+ ringbearer_2:0 "Носитель Кольца"
+ ringbearer_2_desc:0 "Один из немногих, кому посчастливилось обладать магическим кольцом."
  legacyofmorgoth:0 "Наследие Моргота"
  legacyofmorgoth_desc:0 "Самый надежный советник и наследник первого Темного Лорда, Моргота."
  lackofauthority:0 "Отсутсвие авторитета"
@@ -17,5 +19,9 @@
  liberal_cooperative_paragon:0 "Образец Либеральной Демократии"
  ambitious_negotiator_unaligned:0 "Амбициозный Переговорщик"
  ambitious_negotiator_belligerent:0 "Амбициозный Переговорщик"
- ################################
- 
+ambitous_peasant:0 "Амбициозный крестьянин"
+hobbit_farmer:0 "Хоббит-фермер"
+bartender:0 "Бармен"
+political_ranger:0 "Политический следопыт"
+aggressive_suppressor:0 "Агрессивный подавитель"
+peasant_representative:0 "Представитель крестьян"
