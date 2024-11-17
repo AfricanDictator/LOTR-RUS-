@@ -106,6 +106,6 @@
 
 COHESIVE_FACTIONS_RESTRICTION:0 "Ограничение сплоченности фракций"
 COHESIVE_FACTIONS_RESTRICTION_YES:0 "Да"
-COHESIVE_FACTIONS_RESTRICTION_YES_DESC:0 "Страны смогут приглашать/вступать только в те фракции, с которыми у них есть общий враг или общая граница.."
+COHESIVE_FACTIONS_RESTRICTION_YES_DESC:0 "Страны смогут приглашать/вступать только в те фракции, с которыми у них есть общий враг или общая граница."
 COHESIVE_FACTIONS_RESTRICTION_NO:0 "Нет"
 COHESIVE_FACTIONS_RESTRICTION_NO_DESC:0 "Страны смогут приглашать/вступать в любую фракцию, независимо от границ или общих врагов. (Обычные ограничения по-прежнему действуют)"
