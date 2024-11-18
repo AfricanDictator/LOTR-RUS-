@@ -1,0 +1,8 @@
+﻿l_russian:
+### Country flags
+MOR_orcs_have_taken_over_mordor:0 "Орки захватили власть в §YМордоре§!"
+### Tooltip
+MOR_tooltip_sending_adunaphel_to_dol_guldur:0 "Это позволит отправить §YAdunaphel§! в Дол Гулдур, когда крепость будет построена"
+MOR_tooltip_adunaphel_returned:0 "§YAdunaphel§! вернется в Мордор"
+MOR_tooltip_has_send_adunaphel_away:0 "§YAdunaphel§! уже отправлен в Дол Гулдур"
+MOR_tooltip_has_not_send_adunaphel_away:0 "§YAdunaphel§! не отправлен в Дол Гулдур"
